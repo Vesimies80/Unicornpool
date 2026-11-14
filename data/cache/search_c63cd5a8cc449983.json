@@ -1,0 +1,305 @@
+{
+  "input": "Which early-stage climate tech startups in the Nordics raised pre-seed or seed funding recently?",
+  "response": {
+    "content": "## Early-Stage Climate Tech Startups in the Nordics \u2014 Recent Pre-Seed & Seed Funding\n\nThe Nordic climate tech ecosystem remains active at the early stage, supported by dedicated funds and a strong deep-tech culture. Here is what has been happening recently:\n\n### Key Dedicated Funds Fueling the Ecosystem\n\n- **Course Corrected** (Stockholm) closed its **Fund II at US$108.8 million**, a venture vehicle specifically targeting early-stage Nordic climate technology startups. This provides significant dry powder for pre-seed and seed deals in the region.\n- **Maki.vc** (Helsinki) launched a **\u20ac100 million third fund** focused on pre-seed and seed-stage startups across the Nordics and Northern Europe, with initial checks ranging from \u20ac300K to \u20ac3M. Its LP base includes builders of Skype, Wise, RELEX Solutions, and Supercell.\n- **Unconventional Ventures**, a Nordic impact VC, announced the **second close of its Fund II**, investing in pre-seed and seed-stage companies with scalable tech centered on environmental or social impact across the Nordics and Europe.\n\n### Notable Nordic Climate-Adjacent Startups & Signals\n\n- **N2 Applied** (Norway) was named the **best climate technology startup** at the Startuplab Summit and received a 200,000 NOK cash prize. The company develops technology to reduce agricultural emissions.\n- **Inherit Carbon Solutions** (Norway) has been building out its team, recently appointing a new finance director \u2014 a sign of growth-stage activity in the Nordic carbon capture space.\n- **Hula Earth** (Sweden) is a biodiversity monitoring and MRV platform combining proprietary IoT sensors with satellite data and AI analytics, highlighted in WIPO's 2026 Green Technology Book.\n\n### Broader Nordic Early-Stage Landscape\n\n- Finland is projected to raise **$2.2 billion** in startup funding in 2026, with deep tech companies receiving roughly **74% of venture capital** in the region \u2014 a strong indicator that climate-adjacent deep tech is well-funded.\n- The **Startuplab Summit** in Oslo (tied to Oslo Innovation Week) has become a key gathering for climate and energy startups, selling out with a long waiting list, reflecting strong investor and founder interest.\n\n### Investor Landscape to Watch\n\nSeveral VCs are actively deploying into Nordic climate tech at the earliest stages, including Course Corrected, Maki.vc, Unconventional Ventures, and generalist Nordic funds like Nordic Ninja. The European Investment Fund (EIF) has also committed capital to Nordic-focused managers such as BackingMinds (\u20ac20 million).\n\n> **Note:** Specific deal-level data on individual Nordic climate tech pre-seed/seed rounds in 2026 is limited in publicly available sources, as many early-stage rounds in the region are announced with a delay or remain undisclosed. Tracking platforms like Nordic9, Dealroom, and ArcticStartup are good resources for real-time deal flow.\n",
+    "explainability": [
+      {
+        "content": "Course Corrected closed Fund II at US$108.8\u202fmillion, a vehicle dedicated to early\u2011stage Nordic climate\u2011tech startups, providing dry\u2011powder for pre\u2011seed and seed deals.",
+        "references": [
+          "1d30c377-3673-46c3-8afb-8efe4ecac33c"
+        ]
+      },
+      {
+        "content": "Maki.vc launched a \u20ac100\u202fmillion third fund aimed at pre\u2011seed and seed\u2011stage startups across the Nordics and Northern Europe, with initial checks of \u20ac300\u202fk\u2013\u20ac3\u202fM.",
+        "references": [
+          "18a46716-b319-4cd0-b0c0-eff3615b9a61"
+        ]
+      },
+      {
+        "content": "Unconventional Ventures announced the second close of its Fund\u202fII, which invests in pre\u2011seed and seed\u2011stage companies with scalable tech focused on environmental or social impact in the Nordics and Europe.",
+        "references": [
+          "9fda534a-612a-4bcb-93d9-68e14f9e42ec"
+        ]
+      },
+      {
+        "content": "N2 Applied was named the best climate\u2011technology startup at the Startuplab Summit and received a 200,000\u202fNOK cash prize, highlighting its early\u2011stage activity in Norway\u2019s climate\u2011tech space.",
+        "references": [
+          "e60474cb-19b5-433a-8555-883e601e9fe7"
+        ]
+      },
+      {
+        "content": "Inherit Carbon Solutions appointed a new finance director, indicating growth and early\u2011stage scaling activity in Norway\u2019s carbon\u2011capture sector.",
+        "references": [
+          "e60474cb-19b5-433a-8555-883e601e9fe7"
+        ]
+      },
+      {
+        "content": "Hula Earth, a Swedish biodiversity\u2011monitoring platform using IoT sensors, satellite data and AI, is cited in WIPO\u2019s 2026 Green Technology Book as a climate\u2011adjacent early\u2011stage startup.",
+        "references": [
+          "138d8fc1-855f-4800-a9ae-049d37083e9f"
+        ]
+      },
+      {
+        "content": "Finland is projected to raise $2.2\u202fbillion in startup funding in 2026, underscoring a strong financing environment for early\u2011stage deep\u2011tech ventures in the region.",
+        "references": [
+          "9cbb32f9-45f2-400c-9dce-9d28585f443d"
+        ]
+      },
+      {
+        "content": "Deep\u2011tech companies received 74\u202f% of venture capital in the latest year, indicating that climate\u2011adjacent deep\u2011tech startups in the Nordics benefit from substantial early\u2011stage investment flows.",
+        "references": [
+          "7a9a8b4f-a82c-44fa-9f81-97c48b229138"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "1d30c377-3673-46c3-8afb-8efe4ecac33c",
+        "content": "Stockholm's Course Corrected has reached a final close on Fund II at US$108.8M, a venture vehicle targeting Nordic early-stage climate technology.",
+        "origins": [
+          {
+            "source": {
+              "name": "Dealroom.co | Mapping the world's tech ecosystems",
+              "url": "https://dealroom.co/news/171558-course-corrected-closes-91-1m-second-fund-for-nordic-climate-tech"
+            },
+            "document": {
+              "name": "Course Corrected closes $91.1M second fund for Nordic ...",
+              "url": "https://dealroom.co/news/171558-course-corrected-closes-91-1m-second-fund-for-nordic-climate-tech"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18a46716-b319-4cd0-b0c0-eff3615b9a61",
+        "content": "# Maki.vc launches \u20ac100M Fund for Pre-Seed and Seed-stage startups\n\nHelsinki-based venture capital firm Maki.vc has launched its third fund of \u20ac100 million to invest in Pre-Seed and Seed-stage startups across the Nordics and Northern Europe. [...] The VC firm continues to back founders from inception, with initial investments ranging from \u20ac300,000 to \u20ac3M, with follow-on investments made on a selective basis.\n\nAccording to Maki.vc\u2019s Partner Pauliina Martikainen-Rahnu, the Nordics represent one of the most significant startup funding regions in Europe: [...] The new fund is backed by over 50 limited partners, including the builders of Skype, Wise, RELEX Solutions, WithSecure (formerly F-Secure), Aiven, and Supercell, who bring a wealth of experience in scaling and commercialising tech companies.\n\nStartups have access to a global network of advisors, comprising these LPs, alongside expert partners who offer continuous guidance on early-stage recruiting, branding, follow-on funding, and more.",
+        "origins": [
+          {
+            "source": {
+              "name": "Tech.eu - European Startup, Funding and Technology News",
+              "url": "https://tech.eu/2024/11/12/makivc-launches-eur100m-fund-for-pre-seed-and-seed-stage-startups"
+            },
+            "document": {
+              "name": "Maki.vc launches \u20ac100M Fund for Pre-Seed and Seed-stage startups - Tech.eu",
+              "url": "https://tech.eu/2024/11/12/makivc-launches-eur100m-fund-for-pre-seed-and-seed-stage-startups"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9fda534a-612a-4bcb-93d9-68e14f9e42ec",
+        "content": "2. Best 0% APR Cards. # Unconventional Ventures Announces Second Close Of Fund II To Support Diverse Founders Building Impact Tech Companies. Unconventional Ventures has announced the second close of its Fund II. The Nordic impact venture capital firm is led by a group of European founders and was launched to \"unlock the potential of diverse founders building impact tech companies,\" according to its website. Among these groups, all-women founding teams have historically received just 1% to 2% of funding, and founders-of-color-led startups have received less than 0.5%, per the outlet. The firm invests in pre-seed and seed-stage companies with scalable tech that center on environmental or social impact and are based in The Nordics and Europe, according to its website. \"And to our founders: you are at the heart of all of this. The post Unconventional Ventures Announces Second Close Of Fund II To Support Diverse Founders Building Impact Tech Companies appeared first on AfroTech.",
+        "origins": [
+          {
+            "source": {
+              "name": "finance.yahoo.com",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/unconventional-ventures-announces-second-close-164047091.html"
+            },
+            "document": {
+              "name": "Unconventional Ventures Announces Second Close Of Fund II To Support Diverse Founders Building Impact Tech Companies",
+              "url": "https://finance.yahoo.com/sectors/technology/articles/unconventional-ventures-announces-second-close-164047091.html"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e60474cb-19b5-433a-8555-883e601e9fe7",
+        "content": "TechSavvy Read \u2192\n\n  Ecosystem\n\n## Breakit Releases Comprehensive Report on Sweden's Top 70 SaaS Companies\n\nBreakit has published its large SaaS report for 2026, presenting a ranked list of Sweden\u2019s 70 biggest SaaS companies and analysis of how AI is\u2026\n\nBreakit Read \u2192\n\n  Ecosystem\n\n## Nordic unicorns reach $76.1B as Finland claims regional lead with $34.5B\n\nThe Hurun Nordic Unicorn Index reports that Nordic unicorns are valued at a combined $76.1 billion, with Finland leading the region at a\u2026\n\nArcticStartup Read \u2192\n\n  Company Growth\n\n## N2 Applied wins title of best climate technology startup, receives 200,000 kroner\n\nN2 Applied was named the best climate technology startup at the Startuplab Summit and won a 200,000 kroner cash prize. The company develops\u2026\n\nShifter Read \u2192\n\n  Ecosystem [...] Shifter Read \u2192\n\n  Ecosystem\n\n## EIF commits \u20ac20 million to Swedish VC BackingMinds to support underrepresented entrepreneurs\n\nTecharena announced a startup programme or prize with a about \u20ac20 million prize.\n\nEU-Startups Sweden Read \u2192\n\n  Ecosystem\n\n## Startuplab Summit releases new data on sold-out house and long waiting list\n\nStartuplab Summit, a climate and energy startup event tied to Oslo Innovation Week, is sold out with a long waiting list. The fourth-year\u2026\n\nShifter Read \u2192\n\n  Ecosystem\n\n## UiO awards 1.7 million NOK to 19 research projects\n\nThe University of Oslo\u2019s Growth House has awarded 1.7 million NOK in seed funding to 19 early\u2011stage research projects. Five groups receive\u2026\n\nShifter Read \u2192\n\n  Leadership\n\n## Nscale executive takes the helm of new data center initiative [...] Shifter Read \u2192\n\n  Leadership\n\n## Inherit Carbon Solutions appoints Ivar Sandvig Thorsen as finance director\n\nIvar Sandvig Thorsen, formerly with Grieg Shipbrokers, has been hired as finance director at Inherit Carbon Solutions.\n\nShifter Read \u2192\n\n  Ecosystem\n\n## Innovasjonsuken Opp releases new data on 150 investors considering investing in Vestlandet\n\nAround 150 investors are considering opportunities in Vestlandet, a trend highlighted during the Innovasjonsuken Opp event in Bergen.\n\nShifter Read \u2192\n\n  Ecosystem\n\n## NORDEEP 2026 opens SiRA matchmaking ahead of next week\u2019s deep tech summit\n\nNORDEEP 2026 opened the SiRA\u2122 Connect matchmaking platform.\n\nArcticStartup Read \u2192\n\n  Ecosystem\n\n## Get an Overview of Unicorns: Sweden Has Doubled Its Number in Six Years",
+        "origins": [
+          {
+            "source": {
+              "name": "Nordic Startup News",
+              "url": "https://nordicstartupnews.online/topics/people-ecosystem"
+            },
+            "document": {
+              "name": "People and ecosystem startup news | Nordic Startup News",
+              "url": "https://nordicstartupnews.online/topics/people-ecosystem"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "138d8fc1-855f-4800-a9ae-049d37083e9f",
+        "content": "One key challenge is the mismatch between the capital available and a project\u2019s needs. Much of the available financing targets mature investments, whereas restoration projects often require early-stage, risk-tolerant funding to support development and scaling. Addressing this gap requires a range of capital providers: for example, grant makers, impact investors, commercial lenders and private equity. In respect of key action areas for scaling private finance for restoration, the World Bank recommends supporting early-stage restoration ventures by investing in emerging business models and technologies, while using blended finance that combines public and private funding in order to reduce investment risks and attract private capital. Blended finance, along with aggregators and specialized [...] as the Taskforce on Nature-related Financial Disclosures (TNFD). \u2013 Technological maturity: Frontier \u2013 Contracting type: Subscription platform \u2013 Technology level: High \u2013 Place of origin: Sweden \u2013 Availability: Worldwide \u2013 Contact: WIPO GREEN Database Green Technology Book - Solutions for confronting climate disasters 76\b On-site sensor-driven biodiversity monitoring sensors and platform Hula Earth Source: Photo by Andy Kennedy on Unsplash Hula Earth is a biodiversity monitoring and MRV (monitoring, reporting, verification) platform combining proprietary IoT sensors with satellite data and AI analytics to provide continuous, real-time ecosystem insights. The company\u2019s key product is the Hula BioT, a solar-powered, low-maintenance IoT biodiversity sensor able to detect wildlife (e.g., bird [...] Mapping Arctic ice with satellites and drones UiT The Arctic University of Norway, Norwegian Polar Institute and FRAM \u2013 High North Research Center for Climate and Environment Source: Sebastian Gerland, Norwegian Polar Institute In April and May 2022, Norway launched its first Arctic expedition focused on validating satellite-based observations of sea ice and icebergs. Aboard the research vesselKronprins Haakon, scientists from UiT The Arctic University of Norway and the Norwegian Polar Institute collected ground-truth data in the western Fram Strait and East Greenland waters to improve the accuracy of satellite remote sensing products. The team combined traditional fieldwork with innovative tools. Drones equipped with optical, infrared, thermal and radar sensors captured high-resolution",
+        "origins": [
+          {
+            "source": {
+              "name": "WIPO - World Intellectual Property Organization",
+              "url": "https://www.wipo.int/web-publications/green-technology-book-solutions-for-restoring-climate-impacted-ecosystems/assets/106506/1080%20GTB%202026%20-%20EN_150dpi.pdf"
+            },
+            "document": {
+              "name": "Green Technology Book. Solutions for restoring climate- ...",
+              "url": "https://www.wipo.int/web-publications/green-technology-book-solutions-for-restoring-climate-impacted-ecosystems/assets/106506/1080%20GTB%202026%20-%20EN_150dpi.pdf"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9cbb32f9-45f2-400c-9dce-9d28585f443d",
+        "content": "Finland, with 5.6 million people, is projected to raise $2.2B in 2026, having raised more per person in 2025 than Sweden, Denmark or Norway.",
+        "origins": [
+          {
+            "source": {
+              "name": "Dealroom.co | Mapping the world's tech ecosystems",
+              "url": "https://dealroom.co/news/170615-cryo-h-i-wins-korea-deep-tech-challenge-lands-733k-investment"
+            },
+            "document": {
+              "name": "Cryo H&I wins Korea deep-tech challenge, lands $733K ...",
+              "url": "https://dealroom.co/news/170615-cryo-h-i-wins-korea-deep-tech-challenge-lands-733k-investment"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7a9a8b4f-a82c-44fa-9f81-97c48b229138",
+        "content": "Deep tech companies received 74% of this year's venture capital, and Finland, with 5.6 million people, is projected to raise $2.2B in 2026, having raised more",
+        "origins": [
+          {
+            "source": {
+              "name": "Dealroom.co | Mapping the world's tech ecosystems",
+              "url": "https://dealroom.co/news/171423-gyeonggi-program-steers-33m-to-123-content-startups-since-2024"
+            },
+            "document": {
+              "name": "Gyeonggi program steers $33M to 123 content startups since 2024",
+              "url": "https://dealroom.co/news/171423-gyeonggi-program-steers-33m-to-123-content-startups-since-2024"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "2b8a2d06-6e9c-4e01-8c97-3d969d01bce0",
+        "name": "Course Corrected VC Fund I AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Course Corrected"
+        ]
+      },
+      {
+        "id": "8f0ff46d-d609-4ce0-b719-85f739b92ca3",
+        "name": "Maki.vc",
+        "entity_type": "Organization",
+        "mentions": [
+          "Maki.vc"
+        ]
+      },
+      {
+        "id": "13eea80c-c700-408b-8c0a-4e86518d3e26",
+        "name": "Unconventional Ventures",
+        "entity_type": "Company",
+        "mentions": [
+          "Unconventional Ventures"
+        ]
+      },
+      {
+        "id": "3b7f54dd-d92c-4267-8712-3ec763cc951a",
+        "name": "N2 APPLIED AS",
+        "entity_type": "Company",
+        "mentions": [
+          "N2 Applied"
+        ]
+      },
+      {
+        "id": "a634a2e2-ecd7-4253-bffb-8ece69e0191a",
+        "name": "Norway",
+        "entity_type": "Country",
+        "mentions": [
+          "Norway"
+        ]
+      },
+      {
+        "id": "0c5000b2-6948-52d5-a4f3-a9a5bf951af3",
+        "name": "Helsinki",
+        "entity_type": "Municipality",
+        "mentions": [
+          "Helsinki"
+        ]
+      },
+      {
+        "id": "cb488d2f-846a-52ff-9717-26d63a9b2636",
+        "name": "Stockholm",
+        "entity_type": "Municipality",
+        "mentions": [
+          "Stockholm"
+        ]
+      },
+      {
+        "id": "45268f56-905f-4cbe-9729-0ad0bbff87fa",
+        "name": "Sweden",
+        "entity_type": "Country",
+        "mentions": [
+          "Sweden"
+        ]
+      },
+      {
+        "id": "ecce1483-28bc-44b4-88c0-b184f801a5af",
+        "name": "World Intellectual Property Organization",
+        "entity_type": "Company",
+        "mentions": [
+          "WIPO"
+        ]
+      },
+      {
+        "id": "680000b7-a490-418f-8098-9b1757db2e58",
+        "name": "Finland",
+        "entity_type": "Country",
+        "mentions": [
+          "Finland"
+        ]
+      },
+      {
+        "id": "6491b438-55eb-426b-8490-9c5bbf493c5a",
+        "name": "Nordic Ninja VC",
+        "entity_type": "Company",
+        "mentions": [
+          "Nordic Ninja"
+        ]
+      },
+      {
+        "id": "a8617083-69c3-52e0-8cee-c720e02c572d",
+        "name": "The European Investment Fund",
+        "entity_type": "Organization",
+        "mentions": [
+          "European Investment Fund"
+        ]
+      },
+      {
+        "id": "d07e4540-076e-49ce-9001-374e5ac5645b",
+        "name": "BackingMinds Invest AB",
+        "entity_type": "Company",
+        "mentions": [
+          "BackingMinds"
+        ]
+      },
+      {
+        "id": "fe711cbd-931f-4e07-bc0e-5cc6fe48271a",
+        "name": "Scandinavia/Nordics",
+        "entity_type": "Location",
+        "mentions": [
+          "Nordics"
+        ]
+      }
+    ]
+  }
+}

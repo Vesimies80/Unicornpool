@@ -1,0 +1,406 @@
+{
+  "input": "BackingMinds Invest AB: what does the company do, where is it based, how many employees, total funding raised and latest funding round",
+  "response": {
+    "content": "## BackingMinds Invest AB\n\n### What the company does\nBackingMinds is a **Nordic venture capital firm** that invests in early-stage technology companies. It focuses on backing founders outside traditional VC networks, with investment themes spanning **climate & resilience, AI & digital sovereignty, and human potential**. The firm uses data-driven sourcing methods to identify opportunities, with a particular emphasis on entrepreneurs who may be overlooked by conventional investors \u2014 including founders based outside major cities, women, and people with immigrant backgrounds. About 43% of the founders it has backed are women, 43% have immigrant backgrounds, and over 70% were founded outside Stockholm and Copenhagen.\n\n### Headquarters\n**Stockholm, Sweden** \u2014 Strandv\u00e4gen 7A, 114 56 Stockholm.\n\n### Founded\n**21 April 2016**, by Sara Wimmercranz and Susanne Najafi.\n\n### Employees\nThe most recent available figure shows **5 employees**. (Earlier years reported 0\u20134.)\n\n### Funds raised (as a VC firm)\nBackingMinds is not a startup raising venture rounds for itself \u2014 it is a **fund manager** that raises capital from limited partners (LPs) to invest in startups. Its fund history:\n\n- **BackingMinds Invest I** \u2014 first fund (details on size not publicly specified in available sources).\n- **BackingMinds Invest II** \u2014 **\u20ac50 million** fund, expanded across the Nordics with a focus on Denmark.\n- **BackingMinds Invest III** (latest) \u2014 achieved a **first close of more than \u20ac50 million (~$56.1 million)** in October 2026. The European Investment Fund (EIF) committed \u20ac20 million. Notable new investors include Mojang (Minecraft) co-founder Carl Manneh, Candy Crush maker King co-founder Sebastian Knutsson, H&M heir Karl-Johan Persson, and EQT founder Conni Jonsson. The fund targets 15\u201320 companies in AI, climate, and resilience.\n\nEstimated **assets under management** are over **$63.6 million**.\n\n### Latest funding activity\nThe most recent milestone is the **first close of BackingMinds Invest III** at over **\u20ac50 million**, announced in **October 2026**. The fund is still raising and has not yet announced a final close.\n",
+    "explainability": [
+      {
+        "content": "BackingMinds Invest AB is described as a Swedish company that operates as a venture capital firm investing in early\u2011stage technology companies, focusing on climate & resilience, AI & digital sovereignty, and human potential.",
+        "references": [
+          "3c6416ec-3aa2-423c-b970-c95467d94c1c",
+          "e41ee263-1371-4e9b-a7d0-6d09411fe04b"
+        ]
+      },
+      {
+        "content": "The firm\u2019s headquarters are located at Strandv\u00e4gen\u202f7A, 114\u202f56 Stockholm, Sweden, confirming it is based in Stockholm.",
+        "references": [
+          "3c6416ec-3aa2-423c-b970-c95467d94c1c",
+          "1c1ba705-cbcc-450d-b120-e8f283e3553c"
+        ]
+      },
+      {
+        "content": "The most recent employee count reported for BackingMinds Invest AB is five staff members.",
+        "references": [
+          "553d083f-9f6e-4833-a2c1-8c49e1613daf"
+        ]
+      },
+      {
+        "content": "BackingMinds manages assets estimated at over\u202f$63.6\u202fmillion, indicating the total capital it has raised from limited partners for its funds.",
+        "references": [
+          "1c1ba705-cbcc-450d-b120-e8f283e3553c"
+        ]
+      },
+      {
+        "content": "The latest funding activity is the first close of its third fund, BackingMinds Invest\u202fIII, which raised more than\u202f\u20ac50\u202fmillion (\u2248$56.1\u202fmillion) in October\u202f2026, with the European Investment Fund committing \u20ac20\u202fmillion and new investors such as the founders of Minecraft and King joining.",
+        "references": [
+          "74b49f4c-84ba-4b77-9ce3-402126c05ae7",
+          "6a490ab3-f064-4922-b757-7cba7f940f13",
+          "c622b791-3b63-4fc8-8ea7-f7e5ae3ae1fa",
+          "2fc1c70b-faa9-4e73-b9be-f9b1502ee2b8"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "3c6416ec-3aa2-423c-b970-c95467d94c1c",
+        "content": "Entity: BackingMinds Invest AB (type: Company, ID: d07e4540-076e-49ce-9001-374e5ac5645b). Properties: description = Swedish company headquartered in Stockholm, founded in 2016.; founding_date = 2016-04-21; headquarters_address = Strandv\u00e4gen 7A, Stockholm, 114 56, SE; legal_name = BackingMinds Invest AB. Outgoing relationship types HAS_HEADQUARTERS_IN: Sweden. Outgoing relationship types PARTICIPATES_IN_FUNDING_ROUND: Seed, Pre-Seed, Series A, Seed.",
+        "origins": [
+          {
+            "source": {
+              "name": "energyglobal.com",
+              "url": "https://www.energyglobal.com/"
+            },
+            "document": {
+              "name": "energyglobal.com",
+              "url": "https://www.energyglobal.com/energy-storage/10092026/tavion-starts-development-of-its-first-battery-parks-in-poland/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "dealroom.co",
+              "url": "https://dealroom.co/"
+            },
+            "document": {
+              "name": "dealroom.co",
+              "url": "https://dealroom.co/news/170294-saidot-raises-fresh-funding-to-govern-enterprise-ai-agents-eyes-us-push/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "cetasol.com",
+              "url": "https://cetasol.com/"
+            },
+            "document": {
+              "name": "cetasol.com",
+              "url": "https://cetasol.com/press/backingminds-and-shift4good-co-lead-seed-round-in-cetasol-ai-driven-decision-support-for-the-maritime-industry-3406355"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/"
+            },
+            "document": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/companies/tavion"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "thesaasnews.com",
+              "url": "https://www.thesaasnews.com/"
+            },
+            "document": {
+              "name": "thesaasnews.com",
+              "url": "https://www.thesaasnews.com/news/saidot-secures-funding-round/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "se.linkedin.com",
+              "url": "https://se.linkedin.com/"
+            },
+            "document": {
+              "name": "se.linkedin.com",
+              "url": "https://se.linkedin.com/in/piajonsson"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "GLEIF",
+              "url": "https://search.gleif.org/"
+            },
+            "document": {
+              "name": "GLEIF",
+              "url": "https://search.gleif.org/#/record/549300V3W54BR89UHQ28"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "saidot.ai",
+              "url": "https://www.saidot.ai/"
+            },
+            "document": {
+              "name": "saidot.ai",
+              "url": "https://www.saidot.ai/insights/backingminds-invests-in-saidot-to-unlock-the-value-of-enterprise-ai-agents"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "553d083f-9f6e-4833-a2c1-8c49e1613daf",
+        "content": "\u221284 % | \u2212100 % |. | R\u00f6relseresultatet (SEK) | \u22123,1 mn kr | \u22124,7 mn kr | \u22122,4 mn kr | \u22122,3 mn kr | \u22122,4 mn kr |. | \u00c5rets resultat (SEK) | \u221213,5 mn kr | \u22123,0 mn kr | \u22124,1 mn kr | \u22122,5 mn kr | 24,0 mn kr |. | Soliditet (%) | 97 % | 99 % | 99 % | 100 % | 100 % |. | R\u00f6relseresultat (%) | \u2212965 % | \u2212740 % | \u22122 482 % | 0 % | 0 % |. | Antal anst\u00e4llda | 5 | 4 | 0 | 0 | 0 |. ## Beslutsfattare. | Banafsheh Susanne Najafi Amirkiasar | Verkst\u00e4llande direkt\u00f6r |. | Sven David Tomas N\u00e4sfeldt | Huvudansvarig [...] # BackingMinds Invest AB. He has just successfully completed the sale of his company after a decade of highs and lows as a builder. Now, Alexander Hjertstr\u00f6m is switching sides, stepping in as an investor at venture capital f. | Bes\u00f6ksadress | Strandv\u00e4gen 7 A, 11456 Stockholm |. | Bransch | 64 \u2013 Finansiella tj\u00e4nster utom f\u00f6rs\u00e4kring och pensionsfondsverksamhet  64991 \u2013 Investment- och riskkapitalbolagsverksamhet |. | VD | Banafsheh Susanne Najafi Amirkiasar |. #### Letar du efter dina [...] | Huvudansvarig revisor |. | Carl Niclas Lars Wijkstr\u00f6m | Extern firmatecknare |. ## Teknik p\u00e5 f\u00f6retagets hemsida. ### Analytics & Optimization Verktyg. ### Kanaler f\u00f6r Social media. ### Webb-teknologi.",
+        "origins": [
+          {
+            "source": {
+              "name": "Free Business Directory | Vainu Company Information Database",
+              "url": "https://vainu.io/company/backingminds-invest-ab-omsattning-och-nyckeltal/SE5590599642/foretagsinfo"
+            },
+            "document": {
+              "name": "BackingMinds Invest AB oms\u00e4ttning och f\u00f6retagsinfo | Vainu",
+              "url": "https://vainu.io/company/backingminds-invest-ab-omsattning-och-nyckeltal/SE5590599642/foretagsinfo"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "74b49f4c-84ba-4b77-9ce3-402126c05ae7",
+        "content": "## You may also like. ### EIF, Minecraft, King Founders Invest in Swedish VC Fund BackingMinds. Swedish venture capital firm BackingMinds Invest AB raised more than \u20ac50 million ($56.1 million) in a first close of its third fund. ### Susanne Najafi, Female Investor of the Year 2026. She has founded seven tech companies and built one of the Nordics\u2019 largest online beauty retailers before transitioning into investing. ### Airinum Founder Alexander Hjertstr\u00f6m Joins BackingMinds as VC Investor. He [...] Untapped potential: VC BackingMinds expands its second \u20ac50 million fund across the Nordics and doubles down on Denmark - BackingMinds [...] Title: Untapped potential: VC BackingMinds expands its second \u20ac50 million fund across the Nordics and doubles down on Denmark - BackingMinds",
+        "origins": [
+          {
+            "source": {
+              "name": "backingminds.com",
+              "url": "https://www.backingminds.com/news/untapped-potential-vc-backingminds-expands-its-second-50-million-fund-across-the-nordics-and-doubles-down-on-denmark"
+            },
+            "document": {
+              "name": "Untapped potential: VC BackingMinds expands its second \u20ac50 million fund across the Nordics and doubles down on Denmark - BackingMinds",
+              "url": "https://www.backingminds.com/news/untapped-potential-vc-backingminds-expands-its-second-50-million-fund-across-the-nordics-and-doubles-down-on-denmark"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6a490ab3-f064-4922-b757-7cba7f940f13",
+        "content": "# Minecraft, King Founders Invest in Swedish VC Fund BackingMinds. Swedish venture capital firm BackingMinds Invest AB raised more than \u20ac50 million ($56.1 million) in a first close of its third fund, adding two high-profile gaming entrepreneurs as new investors. The new fund will target 15 to 20 companies in areas including artificial intelligence, climate and \u201cresilience,\u201d founders Sara Wimmercranz and Susanne Najafi said in an interview. [...] Minecraft, King Founders Invest in Swedish VC Fund BackingMinds - Bloomberg [...] Title: Minecraft, King Founders Invest in Swedish VC Fund BackingMinds - Bloomberg",
+        "origins": [
+          {
+            "source": {
+              "name": "bloomberg.com",
+              "url": "https://bloomberg.com/news/articles/2026-10-21/minecraft-king-founders-invest-in-swedish-vc-fund-backingminds"
+            },
+            "document": {
+              "name": "Minecraft, King Founders Invest in Swedish VC Fund BackingMinds - Bloomberg",
+              "url": "https://bloomberg.com/news/articles/2026-10-21/minecraft-king-founders-invest-in-swedish-vc-fund-backingminds"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c622b791-3b63-4fc8-8ea7-f7e5ae3ae1fa",
+        "content": "Investors\n\nSwedish venture capital firm BackingMinds Invest AB raised more than \u20ac50 million ($56.1 million) in a first close of its third fund, adding two high-profile gaming entrepreneurs as new investors.  \n  \nThe new fund will target 15 to 20 companies in areas including artificial intelligence, climate and \u201cresilience,\u201d founders Sara Wimmercranz and Susanne Najafi said in an interview. [...] BM Logo\n\nPitch us\n\nBack\n\nBackingMinds\n\n# EIF, Minecraft, King Founders Invest in Swedish VC Fund BackingMinds\n\n##### Swedish venture capital firm BackingMinds Invest AB raised more than \u20ac50 million ($56.1 million) in a first close of its third fund.\n\nInvestors [...] Wimmercranz and Najafi said BackingMinds focuses on founders outside traditional VC networks, an approach shaped partly by their own experiences raising money as entrepreneurs. About 43% of the founders it has backed are women, 43% have immigrant backgrounds and more than 70% were founded outside major startup hubs including Stockholm and Copenhagen.",
+        "origins": [
+          {
+            "source": {
+              "name": "backingminds.com",
+              "url": "https://www.backingminds.com/news/minecraft-king-founders-invest-in-swedish-vc-fund-backingminds"
+            },
+            "document": {
+              "name": "EIF, Minecraft, King Founders Invest in Swedish VC Fund BackingMinds - BackingMinds",
+              "url": "https://www.backingminds.com/news/minecraft-king-founders-invest-in-swedish-vc-fund-backingminds"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2fc1c70b-faa9-4e73-b9be-f9b1502ee2b8",
+        "content": "by the end of 2026. BackingMinds Reaches \u20ac50 Million First Close for Nordic AI and Climate Technology Fund. Stockholm-based venture capital firm BackingMinds has completed a \u20ac50 million first close of BackingMinds Invest III, providing a new financing milestone beyond the previously announced \u20ac20 million European Investment Fund commitment. Founded in 2016 by Sara Wimmercranz and Susanne Najafi, BackingMinds plans to invest in approximately 20 early-stage companies developing climate [...] Founded in 2023 by former ISRO scientist Arup Banerjee, SpectraGaze develops optical imaging sensors and electro-optical payloads for space, defence and scientific applications. The company has delivered infrared detector technology to ISRO and secured work associated with the HRSAT satellite programme. SpectraGaze is developing a hyperspectral imaging camera for a 3U satellite, with delivery targeted for November 2026. Funding will support engineering recruitment, testing infrastructure, [...] infrastructure, product development and execution of existing customer contracts. Intuitivo Raises \u20ac1.35 Million Seed Funding to Expand AI Education Platform into Brazil. Porto-based education technology startup Intuitivo announced \u20ac1.35 million in seed financing on October 23, co-led by Caixa Capital and Impact Innovation Fund. Funding will support AI product development, expansion into Brazil and recruitment. The company plans to increase its workforce from 11 to 20 employees by the end of",
+        "origins": [
+          {
+            "source": {
+              "name": "AI, Security, Cloud, Network, CIO, Digital news - InfotechLead",
+              "url": "https://infotechlead.com/tech/vc-funding-deals-drizzlex-spectragaze-systems-intuitivo-backingminds-99169?amp=1"
+            },
+            "document": {
+              "name": "VC funding deals: DrizzleX, SpectraGaze Systems, Intuitivo, BackingMinds - InfotechLead",
+              "url": "https://infotechlead.com/tech/vc-funding-deals-drizzlex-spectragaze-systems-intuitivo-backingminds-99169?amp=1"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c1ba705-cbcc-450d-b120-e8f283e3553c",
+        "content": "What company stages does BackingMinds focus on?\n\nBackingMinds typically invests at the Early stage.\n\nWhat is BackingMinds's AUM?\n\nBackingMinds's assets under management are estimated at over $63.6M.\n\n## Firmographic Details\n\nHeadquartersStockholm\n\nYear Founded2016\n\n### Institutional Data Access\n\nJoin leading institutional investors using Caplight to access private market data, discover pricing, and execute secondary block trades.\n\nBook a demo [...] Caplight Logo\n\nLog inBook a demo\n\n  \n  \n  \n  \n  \n  \n  \n\nBackingMinds\n\n# BackingMinds\n\nStockholmbackingminds.com\n\n## Overview\n\nBackingMinds is a venture capital firm that invests in early-stage technology companies, with a focus on supporting entrepreneurs from non-traditional backgrounds.\n\nYear Founded\n\n2016\n\nPortfolio Companies\n\n17\n\nWebsite\n\nbackingminds.com\n\n## Investments\n\nBackingMinds investments [...] BackingMinds focuses on FinTech, Energy & Sustainability, Enterprise Software, Healthcare & Life Sciences, Energy & Sustainability, Real Estate & PropTech, Mobility, Transportation & Logistics, Enterprise Software, Cybersecurity, Energy & Sustainability, Consumer & Commerce, Energy & Sustainability, AI, Data & Cloud Infrastructure, Energy & Sustainability, Enterprise Software, Frontier & Industrial Tech, Energy & Sustainability, Energy & Sustainability, Frontier & Industrial Tech, Energy &",
+        "origins": [
+          {
+            "source": {
+              "name": "The Private Market at your Fingertips",
+              "url": "https://www.caplight.com/investor/backingminds"
+            },
+            "document": {
+              "name": "BackingMinds | Portfolio, Investments & AUM | Caplight",
+              "url": "https://www.caplight.com/investor/backingminds"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e41ee263-1371-4e9b-a7d0-6d09411fe04b",
+        "content": "BackingMinds is an early-stage venture capital firm founded in 2016 by Sara Wimmercranz and Susanne Najafi. The firm invests in startups operating in climate and resilience, AI and digital sovereignty, and human potential. It uses data-driven sourcing methods to identify investment opportunities beyond traditional venture capital networks, with a focus on companies across the Nordic region and selected markets elsewhere in Europe. [...] The firm aims to identify founders who may be overlooked by conventional venture capital networks, including entrepreneurs based outside major cities and those with immigrant backgrounds. According to BackingMinds, 71% of the 23 companies backed through its first two funds were founded outside Stockholm, while 43% had at least one founder with an immigrant background and the same share had at least one female founder. [...] BackingMinds Invest III will focus on three areas: climate and resilience, AI and digital sovereignty, and human potential. Its investment strategy reflects growing European interest in technological independence, energy security and industrial competitiveness.",
+        "origins": [
+          {
+            "source": {
+              "name": "EYE NEWSFLASH: Bruce brothers back in the game with surprise Purplebricks return",
+              "url": "https://bebeez.eu/2026/10/21/backingminds-raises-e50-million-in-first-close-of-third-fund-to-invest-in-nordic-startups"
+            },
+            "document": {
+              "name": "BackingMinds raises \u20ac50 million in first close of third fund to invest in Nordic startups \u2013 BeBeez International",
+              "url": "https://bebeez.eu/2026/10/21/backingminds-raises-e50-million-in-first-close-of-third-fund-to-invest-in-nordic-startups"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "76fb8648-d3df-428d-95db-030f5d9bc915",
+        "content": "Caplight Logo\n\nLog inBook a demo\n\n  \n  \n  \n  \n  \n  \n  \n\nBackingMinds\n\n# BackingMinds\n\nStockholmbackingminds.com\n\n## Overview\n\nBackingMinds is a venture capital firm that invests in early-stage technology companies, with a focus on supporting entrepreneurs from non-traditional backgrounds.\n\nYear Founded\n\n2016\n\nPortfolio Companies\n\n17\n\nWebsite\n\nbackingminds.com\n\n## Investments\n\nBackingMinds investments [...] Caplight clients see yearly investment pace and funding raised over time.\n\nBook a demo to see full analytics\n\nFor institutional investors. Book with your work email.\n\n## FAQ\n\nWhere is BackingMinds based?\n\nBackingMinds is headquartered in Stockholm, Sweden.\n\nWhen was BackingMinds founded?\n\nBackingMinds was founded in 2016.\n\nHow many portfolio companies does BackingMinds have?\n\nBackingMinds has 17 portfolio companies in Caplight's dataset.\n\nWhat are some companies in BackingMinds's portfolio? [...] BackingMinds focuses on FinTech, Energy & Sustainability, Enterprise Software, Healthcare & Life Sciences, Energy & Sustainability, Real Estate & PropTech, Mobility, Transportation & Logistics, Enterprise Software, Cybersecurity, Energy & Sustainability, Consumer & Commerce, Energy & Sustainability, AI, Data & Cloud Infrastructure, Energy & Sustainability, Enterprise Software, Frontier & Industrial Tech, Energy & Sustainability, Energy & Sustainability, Frontier & Industrial Tech, Energy &",
+        "origins": [
+          {
+            "source": {
+              "name": "The Private Market at your Fingertips",
+              "url": "https://www.caplight.com/investor/backingminds"
+            },
+            "document": {
+              "name": "BackingMinds | Portfolio, Investments & AUM | Caplight",
+              "url": "https://www.caplight.com/investor/backingminds"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "d07e4540-076e-49ce-9001-374e5ac5645b",
+        "name": "BackingMinds Invest AB",
+        "entity_type": "Company",
+        "mentions": [
+          "BackingMinds Invest AB"
+        ]
+      },
+      {
+        "id": "cb488d2f-846a-52ff-9717-26d63a9b2636",
+        "name": "Stockholm",
+        "entity_type": "Municipality",
+        "mentions": [
+          "Stockholm"
+        ]
+      },
+      {
+        "id": "45268f56-905f-4cbe-9729-0ad0bbff87fa",
+        "name": "Sweden",
+        "entity_type": "Country",
+        "mentions": [
+          "Sweden"
+        ]
+      },
+      {
+        "id": "a8617083-69c3-52e0-8cee-c720e02c572d",
+        "name": "The European Investment Fund",
+        "entity_type": "Organization",
+        "mentions": [
+          "European Investment Fund",
+          "EIF"
+        ]
+      },
+      {
+        "id": "939382a9-6e0d-480a-bd55-52cb3a7a2743",
+        "name": "Mojang AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Mojang"
+        ]
+      },
+      {
+        "id": "e75b6b33-1025-4d78-acfb-752ebb5625b4",
+        "name": "Carl Manneh",
+        "entity_type": "Person",
+        "mentions": [
+          "Carl Manneh"
+        ]
+      },
+      {
+        "id": "100149ff-76d6-46ae-9d0b-3432c38ba3bb",
+        "name": "King",
+        "entity_type": "Organization",
+        "mentions": [
+          "King"
+        ]
+      },
+      {
+        "id": "d4662a33-8f10-536a-b703-acd666271c9d",
+        "name": "John Sebastian Knutsson",
+        "entity_type": "Person",
+        "mentions": [
+          "Sebastian Knutsson"
+        ]
+      },
+      {
+        "id": "6cb559cb-141c-42e8-ac4e-ce251e4bd20d",
+        "name": "H&M",
+        "entity_type": "Organization",
+        "mentions": [
+          "H&M"
+        ]
+      },
+      {
+        "id": "a2c4930c-1021-5de5-a091-d057d091b66f",
+        "name": "Karl-Johan Persson",
+        "entity_type": "Person",
+        "mentions": [
+          "Karl-Johan Persson"
+        ]
+      },
+      {
+        "id": "0e1be198-d29b-41d4-8bbb-035691605668",
+        "name": "EQT AB",
+        "entity_type": "Company",
+        "mentions": [
+          "EQT"
+        ]
+      },
+      {
+        "id": "3c3e23e1-0e68-5e85-af3f-f9f5e65d4661",
+        "name": "Conni Jonsson",
+        "entity_type": "Person",
+        "mentions": [
+          "Conni Jonsson"
+        ]
+      }
+    ]
+  }
+}

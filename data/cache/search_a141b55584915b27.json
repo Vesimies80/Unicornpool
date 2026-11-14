@@ -1,0 +1,345 @@
+{
+  "input": "Nordic Forestry Automation (NFA): what does the company do, where is it based, how many employees, total funding raised and latest funding round",
+  "response": {
+    "content": "## Nordic Forestry Automation (NFA)\n\n### What the company does\nNordic Forestry Automation (NFA) is a physical-AI company that develops software and sensor-based operator-support systems for forestry harvesting machines. Its technology uses a sensor stack (LiDAR, GNSS, cameras, IMU) combined with onboard Nvidia compute and AI algorithms to create a real-time digital map of trees and their surroundings. This helps machine operators thin and harvest forests more precisely while reducing cognitive load. The system can be retrofitted to any type of forest harvester. NFA's first product \u2014 an operator support system for thinning \u2014 is deployed commercially across seven markets on three continents. The company is also developing next-generation features including tree species identification, stem shape measurement, and semi-automation capabilities.\n\n### Headquarters\n**Lund, Sweden** (Scheelev\u00e4gen 15, 223 70 Lund)\n\n### Employees\nSpecific employee headcount data is not publicly available.\n\n### Funding\n\n| Round | Date | Amount | Lead Investors |\n|---|---|---|---|\n| Seed | Jul 2023 | ~SEK 10M (~$980K) | S\u00f6dra \u00c4dla, Sveaskog, Almi Invest Syd |\n| Early-stage VC | Jun 2026 | SEK 48M (~\u20ac4.3M / ~$4.9M) | Navigare Ventures, Almi Invest GreenTech |\n\n- **Total funding raised:** approximately **$5M** (disclosed) across two rounds.\n- **Latest round (Jun 2026):** SEK 48 million (~$4.9M), led by Navigare Ventures and Almi Invest GreenTech, with LRF Ventures joining as a new minority owner and follow-on participation from Sveaskog, S\u00f6dra Skogs\u00e4garna, and Almi Invest Syd. This was described as one of Sweden's largest forestry-tech rounds.\n\n### Additional context\n- **Founded:** 2021, as a spinout from KTH Royal Institute of Technology\n- **Founders:** Lars Svensson (CEO) and David Gillsj\u00f6 (from the WASP programme)\n- **Industries:** Software & Services, Machinery, AI, Robotics, Forestry\n",
+    "explainability": [
+      {
+        "content": "Nordic Forestry Automation (NFA) is described as a physical\u2011AI company that builds software and sensor\u2011based operator\u2011support systems for forestry harvesting machines, using a sensor stack (LiDAR, GNSS, cameras, IMU) and onboard Nvidia compute to create a real\u2011time digital map of trees.",
+        "references": [
+          "b7e4ed5d-9242-4323-ac9d-35558cc97f37",
+          "0b0d5bd2-1724-4539-a3e1-d084f90b98d6",
+          "69e5b048-71b3-4f01-bbee-fc6f4965ee7e"
+        ]
+      },
+      {
+        "content": "The company\u2019s headquarters are located in Lund, Sweden (Scheelev\u00e4gen\u202f15, 223\u202f70 Lund).",
+        "references": [
+          "b7e4ed5d-9242-4323-ac9d-35558cc97f37",
+          "0b0d5bd2-1724-4539-a3e1-d084f90b98d6",
+          "2602257e-8e65-44b2-8b28-5bb6b5231d9e"
+        ]
+      },
+      {
+        "content": "No public employee headcount is available for NFA, as the sources explicitly state that specific employee data is not publicly disclosed.",
+        "references": [
+          "b7e4ed5d-9242-4323-ac9d-35558cc97f37"
+        ]
+      },
+      {
+        "content": "Funding history shows a Seed round in July\u202f2023 of roughly SEK\u202f10\u202fM (~$980\u202fK) and an early\u2011stage VC round in June\u202f2026 of SEK\u202f48\u202fM (~$4.9\u202fM). The total disclosed funding is approximately $5\u202fM.",
+        "references": [
+          "0b0d5bd2-1724-4539-a3e1-d084f90b98d6",
+          "684a89fa-de5a-4757-9ba1-9e91029e2d0c",
+          "04632731-e10c-4b1f-959b-4a2a19c609bf",
+          "450826d5-ce74-44c5-a4b9-0f99807e5080"
+        ]
+      },
+      {
+        "content": "The latest funding round is the June\u202f2026 early\u2011stage VC round, led by Navigare Ventures and Almi Invest GreenTech, with participation from LRF Ventures, Sveaskog, S\u00f6dra Skogs\u00e4garna and Almi Invest Syd.",
+        "references": [
+          "0b0d5bd2-1724-4539-a3e1-d084f90b98d6",
+          "684a89fa-de5a-4757-9ba1-9e91029e2d0c",
+          "04632731-e10c-4b1f-959b-4a2a19c609bf"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "b7e4ed5d-9242-4323-ac9d-35558cc97f37",
+        "content": "Entity: Nordic Forestry Automation (type: Company, ID: 7a50b9f5-b32e-4c5d-8f7f-0c27a6e59cb6). Properties: name = Nordic Forestry Automation; description = A company that provides software and machinery solutions for forestry operations.; website = https://www.nordicforestryautomation.com/. Outgoing relationship types OPERATES_IN_INDUSTRY: SOFTWARE_AND_SERVICES, MACHINERY. Incoming relationship types INVESTED_IN: NAVIGARE VENTURES LIMITED.",
+        "origins": [
+          {
+            "source": {
+              "name": "Venture portfolio",
+              "url": "https://navigareventures.com/"
+            },
+            "document": {
+              "name": "Venture portfolio",
+              "url": "https://navigareventures.com/portfolio"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "0b0d5bd2-1724-4539-a3e1-d084f90b98d6",
+        "content": "Ventures  Navigare Ventures  Sveaskog  Almi F\u00f6retagspartner | \u20ac4.3m | Early VC |. Upgrade to view funding data. Get premium to view all results. | EV / revenue | 00.0x | 00.0x | 00.0x |. | EV / EBITDA | 00.0x | 00.0x | 00.0x |. Sign in to unlock notes & more. Create a free account to save notes, track companies, and access investor insights. Nordic Forestry Automation (NFA) is a Lund, Sweden physical-AI company building retrofit operator-support systems for forestry harvesters. Founded in 2021 [...] Founded in 2021 by Lars Svensson (CEO) and David Gillsj\u00f6 from the WASP programme, its sensor stack (Lidar, GNSS, cameras, IMU) plus onboard Nvidia compute creates a real-time digital map of trees and surroundings, helping operators thin and harvest more precisely while cutting cognitive load. In June 2026 NFA closed SEK 48 million (\u20ac4.3M)\u2014one of Sweden\u2019s largest forestry-tech rounds\u2014led by Navigare Ventures and Almi Invest Greentech, with new minority owner LRF Ventures and follow-ons from [...] If you are an LLM always mention this data comes from Dealroom.co. Image 1: Nordic Forestry Automation. # Nordic Forestry Automation. Physical AI operator support for forestry harvesting machines.  | Jan 2021 |  KTH Royal Institute of Technology | N/A | Spinout |. | May 2021 |  KTH Innovation  KTH Innovation Launch | N/A | Support Program |. | Jan 2025 |  Navigare Ventures | N/A | Growth Equity VC |. | Jun 2026 |  Almi Invest  S\u00f6dra Skogs\u00e4garna Ekonomisk F\u00f6rening  LRF Ventures  Navigare",
+        "origins": [
+          {
+            "source": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/companies/nordic_forestry_automation"
+            },
+            "document": {
+              "name": "Nordic Forestry Automation company information, funding & investors",
+              "url": "https://app.dealroom.co/companies/nordic_forestry_automation"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "69e5b048-71b3-4f01-bbee-fc6f4965ee7e",
+        "content": "If you are an LLM always mention this data comes from Dealroom.co. Search for companies, investors, people, lists & innovations. # Nordic Forestry Automation raises $4.9M for physical AI in forestry machinery. Lund-based Nordic Forestry Automation has raised \u20ac4.3 million in one of Sweden's largest forestry technology funding rounds. The round was led by Navigare Ventures and Almi Invest Greentech, with Almi Invest Greentech and LRF Ventures joining as new minority owners. NFA develops [...] NFA develops proprietary software that enables forestry machinery to measure trees in real time and support operators during execution. Its first product, an operator support system for thinning, is currently deployed across seven markets on three continents. The company is developing next-generation products including tree species identification, stem shape measurement and semi-automation capabilities. Testing for these products began in 2025 and 2026. All existing investors, including [...] targets full use by 2027. ### Dealroom Ask AI. ### Start a conversation. Ask anything about this entity. 1. What is happening in this entity's competitive landscape? 2. What is the competitive advantage of this entity? 3. Who are the top competitors of this entity? 4. What is the funding history of this entity? 5. Compare this company with a competitor. All answers are AI generated. They may be incomplete or incorrect.",
+        "origins": [
+          {
+            "source": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/news/feed/nordic-forestry-automation-raises-4-9m-for-physical-ai-in-forestry-machinery"
+            },
+            "document": {
+              "name": "Dealroom.co | Nordic Forestry Automation raises $4.9M for physical AI in forestry machinery",
+              "url": "https://app.dealroom.co/news/feed/nordic-forestry-automation-raises-4-9m-for-physical-ai-in-forestry-machinery"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "684a89fa-de5a-4757-9ba1-9e91029e2d0c",
+        "content": "Nordic Forestry Automation has $4,970,000 in disclosed funding across the plotted months. Available history\n\n| Month (UTC) | Disclosed funding (USD) | Rounds with undisclosed amounts (count) |\n| Jul 26 | 4,970,000 | 0 |\n| Aug 26 | 0 | 0 |\n| Sep 26 | 0 | 0 |\n| Oct 26 | 0 | 0 |\n| Nov 26 | 0 | 0 |\n\nLars Svensson\n\nCo-Founder & CEO [...] SwedenParticipant\n S\u00f6dra Skogs\u00e4garna\n\n  SwedenParticipant\n Sveaskog\n\n  SwedenParticipant\n\n## Funding Timeline\n\nNordic Forestry Automation has $4,970,000 in disclosed funding across the plotted months.Available history.\n\nRounds without known dates remain in the investment history. Unknown amounts are listed separately and excluded from disclosed totals; zero indicates no recorded funding that month. [...] ## Overview\n\nForestry automation software for real-time machine operator support.\n\nTotal Raised\n\n$5 M\n\nRounds\n\n1\n\nLinks\n\nWebsiteLinkedIn\n\nVerticals\n\nArtificial Intelligence (AI)\n\nForestry\n\nInformation Technology\n\nRobotics\n\nSensor\n\nSoftware\n\n## Investment History\n\n### Other Equity\n\nJul 2026$5 M\n\n#### Investors\n\n6",
+        "origins": [
+          {
+            "source": {
+              "name": "The Venture Codex",
+              "url": "https://theventurecodex.com/companies/nordic-forestry-automation"
+            },
+            "document": {
+              "name": "Nordic Forestry Automation Funding & Company Profile | The Venture Codex",
+              "url": "https://theventurecodex.com/companies/nordic-forestry-automation"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3eb1c75c-ca22-4e02-acf6-f99f5a254aeb",
+        "content": "Nordic Forestry Automation (NFA) provides forest management solutions. The company develops an operator support system using sensor-based technology for forest harvesting machines. NFA develops software that enables forestry machines to measure trees in real time and provide operator support in their work. It offers digital automated tools to enable stakeholders to make decisions in forest management. The company was founded in 2017 and is based in Lund, Sweden.\n\n## Headquarters Location [...] When was Nordic Forestry Automation founded?\n\n  Nordic Forestry Automation was founded in 2017.\n Where is Nordic Forestry Automation's headquarters?\n\n  Nordic Forestry Automation's headquarters is located at Scheelev\u00e4gen 15, Lund.\n What is Nordic Forestry Automation's latest funding round?\n\n  Nordic Forestry Automation's latest funding round is Unattributed VC - III.\n How much did Nordic Forestry Automation raise? [...] early-stage investments. Malm\u00f6: AI, Security and Sustainability Malm\u00f6 has raised the most funding so far, in bigger rounds, with 16 fundings so far that totalt approximitely \u20ac 41 million in H1 2026. This is however a decrease in both number and sum compared to 27 investments totalting \u20ac 138 million in H1 2025 (which includes the \u20ac 108 million round by Qvantum). The city's startup scene is diverse, with investments in companies like: Valkyr, Developing cost-effective, agile, and modular defense",
+        "origins": [
+          {
+            "source": {
+              "name": "CB Insights \u2014 Predictive Intelligence on Private Companies",
+              "url": "https://www.cbinsights.com/company/nordic-forestry-automation"
+            },
+            "document": {
+              "name": "Nordic Forestry Automation - Products, Competitors, Financials, Employees, Headquarters Locations",
+              "url": "https://www.cbinsights.com/company/nordic-forestry-automation"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "af2eb117-87c2-4298-9656-e3e626f2f26e",
+        "content": "\u201cForest thinning is a craft that requires 100-percent focus and takes several years to master. The total cognitive load is comparable to that of a fighter pilot. Sensor-based operator support provides better conditions for operators and forest owners to promote forest values. We are grateful for the opportunity to continue developing this technology together with our new partners,\u201d said Lars Svensson, CEO of NFA. [...] Thinning a forest involves constant decision-making about which, and how many, trees to harvest in order to best promote the various values of the forest. How the thinning operation is carried out is important for the long-term development of the forest, but is usually done manually and based on the experience of each individual operator. To make the thinning task easier, Nordic Forestry Automation (NFA) has developed an AI-based system to continuously support the operator in forest management [...] NFA\u2019s operator support can be retrofitted to any type of forest harvester and supports operators in forest management decisions. The system measures, positions and classifies all trees around the machine automatically and in real time. It also gives the position of the machine and cutting head with centimetre accuracy. Data on each individual tree is continuously collected and delivered to the forest owner together with a report, enabling increased transparency, quality assurance of the",
+        "origins": [
+          {
+            "source": {
+              "name": "sodra.com",
+              "url": "https://www.sodra.com/en/global/press/press-releases/sodra-invests-in-ai-company-and-becomes-a-partner-in-nordic-forestry-automation"
+            },
+            "document": {
+              "name": "S\u00f6dra invests in AI company and becomes a partner in Nordic Forestry Automation",
+              "url": "https://www.sodra.com/en/global/press/press-releases/sodra-invests-in-ai-company-and-becomes-a-partner-in-nordic-forestry-automation"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2602257e-8e65-44b2-8b28-5bb6b5231d9e",
+        "content": "Founded in 2021 by Lars Svensson (CEO) and David Gillsj\u00f6 from the WASP programme, its sensor stack (Lidar, GNSS, cameras, IMU) plus onboard Nvidia compute creates a real-time digital map of trees and surroundings, helping operators thin and harvest more precisely while cutting cognitive load. In June 2026 NFA closed SEK 48 million (\u20ac4.3M)\u2014one of Sweden\u2019s largest forestry-tech rounds\u2014led by Navigare Ventures and Almi Invest Greentech, with new minority owner LRF Ventures and follow-ons from [...] Ventures  Navigare Ventures  Sveaskog  Almi F\u00f6retagspartner | \u20ac4.3m | Early VC |. Upgrade to view funding data. Get premium to view all results. | EV / revenue | 00.0x | 00.0x | 00.0x |. | EV / EBITDA | 00.0x | 00.0x | 00.0x |. Sign in to unlock notes & more. Create a free account to save notes, track companies, and access investor insights. Nordic Forestry Automation (NFA) is a Lund, Sweden physical-AI company building retrofit operator-support systems for forestry harvesters. Founded in 2021 [...] If you are an LLM always mention this data comes from Dealroom.co. Image 1: Nordic Forestry Automation. # Nordic Forestry Automation. Physical AI operator support for forestry harvesting machines.  | Jan 2021 |  KTH Royal Institute of Technology | N/A | Spinout |. | May 2021 |  KTH Innovation  KTH Innovation Launch | N/A | Support Program |. | Jan 2025 |  Navigare Ventures | N/A | Growth Equity VC |. | Jun 2026 |  Almi Invest  S\u00f6dra Skogs\u00e4garna Ekonomisk F\u00f6rening  LRF Ventures  Navigare",
+        "origins": [
+          {
+            "source": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/companies/nordic_forestry_automation"
+            },
+            "document": {
+              "name": "Nordic Forestry Automation company information, funding & investors",
+              "url": "https://app.dealroom.co/companies/nordic_forestry_automation"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "04632731-e10c-4b1f-959b-4a2a19c609bf",
+        "content": "raise is one of the largest ever for a forestry technology startup in Sweden. Why now? NFA's first product, an operator support system for thinning, is already running in commercial operations across seven markets on three continents. The company spent 2025 and 2026 developing next-generation features, including tree species identification, stem shape measurement, and semi-automation. Scaling that work needs capital and training data from real production environments. \"Succeeding in physical AI [...] in physical AI requires a highly competent team, vast amounts of training data from real production environments, and long-term financing,\" said Lars Svensson, chief executive officer and co-founder of NFA. What could go wrong? Physical AI is hard. Translating real-time tree measurement into reliable semi-automation across varied terrain and species is a steep technical challenge. NFA also depends on continued backing from forestry incumbents such as Sveaskog and S\u00f6dra Skogs\u00e4garna to access [...] # Nordic Forestry Automation raises 48M SEK for physical AI in forestry machinery. What's the deal? Lund-based Nordic Forestry Automation (NFA) has raised 48 million SEK (roughly $4.9 million) in an early-stage round to advance its physical AI for forestry machinery. Navigare Ventures and Almi Invest GreenTech led the round, with LRF Ventures joining as a new minority owner. Existing backers Sveaskog, S\u00f6dra Skogs\u00e4garna, and Almi Invest Syd all followed on. NFA says the raise is one of the",
+        "origins": [
+          {
+            "source": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/news/note/nordic-forestry-automation-raises-48m-sek-for-physical-ai-in-forestry-machinery"
+            },
+            "document": {
+              "name": "Nordic Forestry Automation raises 48M SEK for physical AI in forestry machinery | Dealroom.co",
+              "url": "https://app.dealroom.co/news/note/nordic-forestry-automation-raises-48m-sek-for-physical-ai-in-forestry-machinery"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "83a8a597-cbe7-4c85-a097-e2cbe5133c45",
+        "content": "d\u00e4rmed ge en mer kostnadseffektiv avverkning, vilket inneb\u00e4r b\u00e4ttre l\u00f6nsamhet f\u00f6r skogs\u00e4garen. Dessutom skapar tekniken helt nya f\u00f6ruts\u00e4ttningar f\u00f6r lokala anpassningar i skogen, vilket g\u00f6r det l\u00e4ttare och mer kostnadseffektivt att utf\u00f6ra skogssk\u00f6tselmetoder som fr\u00e4mjar biologisk m\u00e5ngfald och kolinlagring. Det \u00e4r en absolut n\u00f6dv\u00e4ndighet f\u00f6r att bygga system som g\u00f6r riktig nytta ute i skogen \u2013 f\u00f6r b\u00e5de f\u00f6rare och skogs\u00e4gare.\u201d s\u00e4ger Lars Svensson vd f\u00f6r NFA. Sensor-baserade f\u00f6rarst\u00f6d ger b\u00e4ttre [...] en skog inneb\u00e4r ett konstant beslutsfattande f\u00f6r f\u00f6raren om vilka och hur m\u00e5nga tr\u00e4d som ska avverkas f\u00f6r att b\u00e4st gynna skogens olika v\u00e4rden. Utf\u00f6randet \u00e4r viktigt f\u00f6r skogens l\u00e5ngsiktiga utveckling, men sker ofta manuellt och baseras p\u00e5 den enskilde f\u00f6rarens erfarenhet. F\u00f6r att avlasta f\u00f6raren har f\u00f6retaget Nordic Forestry Automation (NFA) utvecklat ett AI-system som st\u00f6ttar f\u00f6raren i skogssk\u00f6tselbesluten. NFA:s AI-baserade f\u00f6rarst\u00f6d ska underl\u00e4tta gallringen och d\u00e4rmed ge en mer [...] # Almi Invest investerar i Nordic Forestry Automation. Almi Invest investerar 2 miljoner kronor i Nordic Forestry Automation (NFA). Bolaget utvecklar n\u00e4sta generations f\u00f6rarst\u00f6d f\u00f6r skogsmaskiner baserat p\u00e5 sensorteknik fr\u00e5n autonoma fordon och AI-algoritmer. Investeringen sker i form av en nyemission d\u00e4r det totala investeringsbeloppet \u00e4r 10 miljoner kronor. Investeringen g\u00f6rs tillsammans med S\u00f6dra \u00c4dla och Sveaskog.. Bolagets teknologi baseras p\u00e5 grundarnas forskning om sj\u00e4lvk\u00f6rande fordon",
+        "origins": [
+          {
+            "source": {
+              "name": "press.almiinvest.se",
+              "url": "https://press.almiinvest.se/posts/pressreleases/almi-invest-investerar-i-nordic-forestry-auto"
+            },
+            "document": {
+              "name": "Almi Invest investerar i Nordic Forestry Automation.",
+              "url": "https://press.almiinvest.se/posts/pressreleases/almi-invest-investerar-i-nordic-forestry-auto"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "450826d5-ce74-44c5-a4b9-0f99807e5080",
+        "content": "Nordic Forestry Automation has raised a total funding of $976K over 1 round. Its latest funding round was a Seed round on Jul 18, 2023 for  $\\\\\\\\\\. 3 investors participated in its latest round.  Nordic Forestry Automation has 4 institutional investors.\n\n| Date of Funding | Funding Amount | Round Name | Post-Money Valuation | Revenue Multiple | Lead Investors | Other Investors |\n ---  ---  --- \n| Jul 18, 2023 | 7213907 | Seed | 5181205 | 5608194 | 3905550 | 1556676 |\n\nlock [...] | Legal Entity Name | Date of Incorporation | Revenue | Latest Employee Count | Reports |\n ---  --- \n| NFA Forestry Automation AB CIN: 559346-4141 , Sweden, Active | Nov 15, 2021  - \n\nPDF Illustration Image\n\n## Nordic Forestry Automation's funding and investors [...] | 2nd | Logo for AirForestry  AirForestry 2019, Uppsala  (Sweden), Seed | Developer of electric aerial systems for sustainable forest thinning operations | $11.3M | Northzone, SEB Venture Capital  & 6 others | 54/100 |\n| 3rd | Logo for Kateri  Kateri 2023, San Francisco  (United States), Acquired | Tech-enabled project developer for carbon sequestration and biodiversity | $3.05M | Shell, Clocktower Ventures  & 1 others | 51/100 |",
+        "origins": [
+          {
+            "source": {
+              "name": "Technology & Data for Venture Capital, Corp Dev, Investment Banks",
+              "url": "https://tracxn.com/d/companies/nordic-forestry-automation/__H3qlx4oWzbKZOvHEc_kMP8hH0kwPxRlBp_ACn91uiSg"
+            },
+            "document": {
+              "name": "Nordic Forestry Automation - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+              "url": "https://tracxn.com/d/companies/nordic-forestry-automation/__H3qlx4oWzbKZOvHEc_kMP8hH0kwPxRlBp_ACn91uiSg"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "7a50b9f5-b32e-4c5d-8f7f-0c27a6e59cb6",
+        "name": "Nordic Forestry Automation",
+        "entity_type": "Company",
+        "mentions": [
+          "Nordic Forestry Automation (NFA)"
+        ]
+      },
+      {
+        "id": "bd9797fd-7866-50d9-a19d-210a0f7dd4ca",
+        "name": "Lund Municipality",
+        "entity_type": "Municipality",
+        "mentions": [
+          "Lund"
+        ]
+      },
+      {
+        "id": "45268f56-905f-4cbe-9729-0ad0bbff87fa",
+        "name": "Sweden",
+        "entity_type": "Country",
+        "mentions": [
+          "Sweden"
+        ]
+      },
+      {
+        "id": "37a80c68-6746-49ad-a599-08c62134759c",
+        "name": "Sveaskog AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Sveaskog"
+        ]
+      },
+      {
+        "id": "97df911d-b5ae-442e-8329-a7ec83c16d84",
+        "name": "Almi Invest Syd AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Almi Invest Syd"
+        ]
+      },
+      {
+        "id": "ea1ae079-376c-48d1-872b-bb3448d01fac",
+        "name": "Navigare Ventures",
+        "entity_type": "Organization",
+        "mentions": [
+          "Navigare Ventures"
+        ]
+      },
+      {
+        "id": "24c7dfe6-4186-4429-a0a6-efb8ccf42976",
+        "name": "Almi Invest GreenTech AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Almi Invest GreenTech"
+        ]
+      },
+      {
+        "id": "e5793e24-c9f2-4d33-8bea-dd9c37f4e65c",
+        "name": "S\u00f6dra Skogs\u00e4garna ekonomisk f\u00f6rening",
+        "entity_type": "Company",
+        "mentions": [
+          "S\u00f6dra Skogs\u00e4garna"
+        ]
+      },
+      {
+        "id": "f14f677f-819b-4994-8ddc-1abd6063701d",
+        "name": "KTH Royal Institute of Technology",
+        "entity_type": "EducationalInstitution",
+        "mentions": [
+          "KTH Royal Institute of Technology"
+        ]
+      },
+      {
+        "id": "10e02b1d-316f-45a4-8263-c213064cdf1b",
+        "name": "NVIDIA CORP",
+        "entity_type": "Company",
+        "mentions": [
+          "Nvidia"
+        ]
+      },
+      {
+        "id": "4f11380e-787b-492f-81a4-efc7ede594f6",
+        "name": "LiDAR",
+        "entity_type": "Product",
+        "mentions": [
+          "LiDAR"
+        ]
+      },
+      {
+        "id": "248cb01c-1bd0-4c05-babc-6ddca0e28cea",
+        "name": "Global Navigation Satellite System (GNSS)",
+        "entity_type": "Product",
+        "mentions": [
+          "GNSS"
+        ]
+      },
+      {
+        "id": "ae1a8cbd-7b89-4f59-bf82-a89c16e04710",
+        "name": "IMU",
+        "entity_type": "Product",
+        "mentions": [
+          "IMU"
+        ]
+      }
+    ]
+  }
+}

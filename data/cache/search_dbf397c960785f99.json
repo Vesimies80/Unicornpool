@@ -1,0 +1,309 @@
+{
+  "input": "N2 APPLIED AS: what does the company do, where is it based, how many employees, total funding raised and latest funding round",
+  "response": {
+    "content": "## N2 Applied AS\n\n### What the company does\nN2 Applied is a Norwegian cleantech company that develops plasma reactor technology enabling farmers to produce their own nitrogen fertilizer on-farm using livestock slurry (manure), air, and renewable electricity. By recycling organic materials through plasma technology, the company offers a sustainable, circular alternative to conventional nitrogen fertilizer production. It operates in the **renewable energy** and **chemicals** industries.\n\n### Headquarters\nN2 Applied is headquartered in **Oslo, Norway** (Dronning Eufemias gate 20, 0191 Oslo). Some sources also reference Asker, Norway as a location. The company was founded on **17 June 2010**.\n\n### Employees\nThe latest available employee count is approximately **31\u201333 employees** (as of December 2021).\n\n### Total funding raised\nN2 Applied has raised a total of approximately **$20.3 million** across **4 funding rounds**.\n\n### Latest funding round\nThe most recent round was a **Series B** round of approximately **$10.7 million**, completed in **January 2023**. Investors in that round included Holta Invest, Blue River Invest, Rasmussengruppen (Gangsted-Rasmussen Group), and NorgesGruppen, among others.\n\n**Note:** As of March 2025, reports indicate that N2 Applied filed for bankruptcy.",
+    "explainability": [
+      {
+        "content": "N2 Applied is a Norwegian cleantech company that develops plasma reactor technology to enable on\u2011farm production of nitrogen fertilizer from livestock slurry, air and renewable electricity, providing a sustainable circular alternative to conventional fertilizer production.",
+        "references": [
+          "b006aac1-6ee1-42c1-b92e-bfa5dc2abdc2",
+          "38518449-79ba-40d9-9673-b5ab842f7db3"
+        ]
+      },
+      {
+        "content": "The company operates in the renewable energy and chemicals (chemicals) industries.",
+        "references": [
+          "b006aac1-6ee1-42c1-b92e-bfa5dc2abdc2"
+        ]
+      },
+      {
+        "content": "Its headquarters are located in Oslo, Norway (address Dronning Eufemias gate 20, 0191 Oslo), with some sources also mentioning Asker, Norway as a location.",
+        "references": [
+          "b006aac1-6ee1-42c1-b92e-bfa5dc2abdc2",
+          "11938f3c-493d-4b12-bc8a-ee3033ce96f4"
+        ]
+      },
+      {
+        "content": "The latest available employee count is about 31\u201333 employees (31 employees as of 31\u202fDec\u202f2021 and 33 employees reported elsewhere).",
+        "references": [
+          "4ca87af6-3d28-4594-a9e7-631e75115656",
+          "11938f3c-493d-4b12-bc8a-ee3033ce96f4"
+        ]
+      },
+      {
+        "content": "N2 Applied has raised a total of approximately $20.3\u202fmillion across four funding rounds.",
+        "references": [
+          "51dc01a8-ed2a-417e-8e35-c3d9d538f3d3",
+          "4ca87af6-3d28-4594-a9e7-631e75115656"
+        ]
+      },
+      {
+        "content": "The most recent round was a Series\u202fB round of about $10.7\u202fmillion completed in January\u202f2023, with investors including Holta Invest, Blue River Invest, Rasmussengruppen and NorgesGruppen.",
+        "references": [
+          "51dc01a8-ed2a-417e-8e35-c3d9d538f3d3",
+          "4ca87af6-3d28-4594-a9e7-631e75115656"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "b006aac1-6ee1-42c1-b92e-bfa5dc2abdc2",
+        "content": "Entity: N2 APPLIED AS (type: Company, ID: 3b7f54dd-d92c-4267-8712-3ec763cc951a). Properties: description = A Norwegian company headquartered in Oslo, founded in 2010.; founding_date = 2010-06-17; headquarters_address = Dronning Eufemias gate 20, Oslo, NO-03, 0191, NO; legal_name = N2 APPLIED AS. Outgoing relationship types HAS_HEADQUARTERS_IN: Oslo, Norway. Outgoing relationship types OPERATES_IN_INDUSTRY: RENEWABLE_ENERGY, CHEMICALS. Outgoing relationship types PARTICIPATES_IN_CORPORATE_EVENT: FINANCING_RAISED_OR_FACILITY_ENTERED, FINANCING_RAISED_OR_FACILITY_ENTERED, FINANCING_RAISED_OR_FACILITY_ENTERED. Incoming relationship types INVESTED_IN: HOLTA INVEST AS, BLUE RIVER INVEST AS.",
+        "origins": [
+          {
+            "source": {
+              "name": "tracxn.com",
+              "url": "https://tracxn.com/"
+            },
+            "document": {
+              "name": "tracxn.com",
+              "url": "https://tracxn.com/d/companies/n2-applied/__FBb7HGwOQeLk6uYISJ4i5TTTWC50S7QghBGslmGfcks/funding-and-investors"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "www.crunchbase.com",
+              "url": "https://www.crunchbase.com/"
+            },
+            "document": {
+              "name": "www.crunchbase.com",
+              "url": "https://www.crunchbase.com/organization/n2-applied"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "tracxn.com",
+              "url": "https://tracxn.com/"
+            },
+            "document": {
+              "name": "tracxn.com",
+              "url": "https://tracxn.com/d/companies/n2-applied/__FBb7HGwOQeLk6uYISJ4i5TTTWC50S7QghBGslmGfcks"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Press release - N2 Applied raises NOK 74 million for next phase expansion - N2 Applied",
+              "url": "https://n2applied.com/"
+            },
+            "document": {
+              "name": "Press release - N2 Applied raises NOK 74 million for next phase expansion - N2 Applied",
+              "url": "https://n2applied.com/2020/02/20/press-release-n2-applied-raises-nok-74-million-for-next-phase-expansion"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "N2 Applied gets $17m to turn livestock slurry into sustainable fertilizer",
+              "url": "https://agfundernews.com/"
+            },
+            "document": {
+              "name": "N2 Applied gets $17m to turn livestock slurry into sustainable fertilizer",
+              "url": "https://agfundernews.com/n2-applied-gets-17m-to-turn-livestock-slurry-into-sustainable-fertilizer"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "www.crunchbase.com",
+              "url": "https://www.crunchbase.com/"
+            },
+            "document": {
+              "name": "www.crunchbase.com",
+              "url": "https://www.crunchbase.com/person/carl-hansson-1873"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "GLEIF",
+              "url": "https://search.gleif.org/"
+            },
+            "document": {
+              "name": "GLEIF",
+              "url": "https://search.gleif.org/#/record/549300OAMUEPKVEO9U08"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "51dc01a8-ed2a-417e-8e35-c3d9d538f3d3",
+        "content": "N2 Applied has raised a total funding of $20.3M over 4 rounds. Its first funding round was on Dec 01, 2020. Its latest funding round was a Series B round on Jan 11, 2023 for  $\\\\\\\\\\. 5 investors participated in its latest round.  N2 Applied has 10 institutional investors.\n\nlock [...] | Rank | Company Details | Short Description | Total Funding | Investors | Tracxn Score |\n ---  ---  --- |\n| 1st | Logo for N2 Applied  N2 Applied 2010, Oslo  (Norway), Series B | Sustainable fertiliser solutions through innovative plasma technology for circular agriculture | $20.3M | EIC Fund, The Yield Lab  & 8 others | 43/100 |\n| 2nd | Logo for LAT Nitrogen  LAT Nitrogen 2023, Linz  (Austria), Funding Raised | Provider of nitrogen based crop nutrition  Europa | 31/100 | [...] | Legal Entity Name | Date of Incorporation | Revenue | Latest Employee Count | Reports |\n ---  --- \n| N2 Applied As CIN: 995723735 , Norway, Active | Jul 27, 2010  31 (As on Dec 31, 2021) | Buy Now |\n\nPDF Illustration Image\n\n## N2 Applied's funding and investors",
+        "origins": [
+          {
+            "source": {
+              "name": "Technology & Data for Venture Capital, Corp Dev, Investment Banks",
+              "url": "https://tracxn.com/d/companies/n2-applied/__FBb7HGwOQeLk6uYISJ4i5TTTWC50S7QghBGslmGfcks"
+            },
+            "document": {
+              "name": "N2 Applied - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn",
+              "url": "https://tracxn.com/d/companies/n2-applied/__FBb7HGwOQeLk6uYISJ4i5TTTWC50S7QghBGslmGfcks"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4ca87af6-3d28-4594-a9e7-631e75115656",
+        "content": "Holta Invest and Rasmussengruppen. The company has 31 employees as of December 31, 2021. N2 Applied offers products and services including NEO Fertiliser and Mineral Fertiliser System. N2 Applied operates in a competitive market with competitors including NTP Technologies and LAT Nitrogen, among others.  Employees 31 as on 31 Dec, 2021. as on Dec 31, 2021. Get unrestricted viewing across everything we track \u2014 from companies and brands to investors, funding rounds, acquisitions, financials, and [...] Indian Legal Entity People Database Charges Regulatory Alerts Litigations Detailed Financials Credit Ratings Global Brands Funding Rounds Acquisitions Investors Database IPO & Listings News Company Report. Plasma-based organic fertilizer is produced from livestock waste. N2 Applied is a company based in Oslo (Norway) founded in 2010 by Rune Ingels and Grete Sonsteby.. N2 Applied has raised $20.32 million across 4 funding rounds from investors including European Union, Holta Invest and [...] financials, and more. ## Products & Services of N2 Applied. N2 Applied offers a comprehensive portfolio of products and services, including NEO Fertiliser and Mineral Fertiliser System. ## Funding Insights of N2 Applied. N2 Applied has successfully raised a total of $20.32M across 4 strategic funding rounds. The most recent funding activity was a Series B round of $10.73 million completed in January 2023. | Jan, 2023 | Amount | Series B - N2 Applied | Valuation | investors | Holta Invest ,",
+        "origins": [
+          {
+            "source": {
+              "name": "The Company Check | Empowering Businesses with Data Transparency",
+              "url": "https://www.thecompanycheck.com/company/b/n2-applied/o2n1i213f2soyzhrg"
+            },
+            "document": {
+              "name": "N2 Applied \u2014 Company Profile | The Company Check",
+              "url": "https://www.thecompanycheck.com/company/b/n2-applied/o2n1i213f2soyzhrg"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "38518449-79ba-40d9-9673-b5ab842f7db3",
+        "content": "# N2 Applied. N2 Applied focuses on sustainable fertilizer production using plasma technology within the agricultural sector. The company provides a method for farmers to produce fertilizer by recycling organic materials and utilizing renewable energy, addressing nitrogen pollution and climate emissions from agriculture. It serves the agriculture industry, offering technology supporting a circular fertilizer production economy. The company was founded in 2010 and is based in Asker, Norway. In [...] Asker, Norway. In March 2025, N2 Applied filed for bankruptcy. ## N2 Applied's Products & Differentiators. N2 Applied is included in 1 Expert Collection, including Agriculture Technology (Agtech). The new fertiliser production method uses plasma technology, developed and supplied by N2 Applied. The product is produced from renewable electricity, air, and water through plasma technology, offering an alternative to conventional nitrogen fertiliser production routes that typically depend on [...] heat pump-based dehumidification systems, buffer tanks, LED lighting, and additional screening, all aimed at reducing the energy demand of the facility. \"I really believe this can be something for the future: producing fertilisers locally and making full use of the outputs, from the fertiliser itself to the residual heat.\" \u00a9 N2 Applied Decentralised fertiliser production This is also the aim of N2 Applied: decentralised fertiliser production connected to greenhouse regions. In N2 Applied's",
+        "origins": [
+          {
+            "source": {
+              "name": "CB Insights \u2014 Predictive Intelligence on Private Companies",
+              "url": "https://www.cbinsights.com/company/n2-applied"
+            },
+            "document": {
+              "name": "N2 Applied - Products, Competitors, Financials, Employees, Headquarters Locations",
+              "url": "https://www.cbinsights.com/company/n2-applied"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9245e7f8-6858-43ad-b5e8-265c9f7d50b4",
+        "content": "| Tracxn Score |. | 1st | Logo for N2 Applied  N2 Applied 2010, Oslo  (Norway), Series B | Sustainable fertiliser solutions through innovative plasma technology for circular agriculture | $20.3M | The Yield Lab, Holta Invest  & 8 others | 43/100 |. | 2nd | Logo for LAT Nitrogen  LAT Nitrogen 2023, Linz  (Austria), Funding Raised | Provider of nitrogen based crop nutrition  Europa | 31/100 |. | 3rd | Logo for NTP Technologies  NTP Technologies 2021, Midlothian  (United States), Seed | Provider [...] | Series B |. ## Financials of N2 Applied As. ## Board of Directors and Signatories of N2 Applied As. ### Board of Directors of N2 Applied As. | Name | Designation | Status | Appointment Date | Duration |. | Ragnvald Rasmus Sunde | Director | Current  - |. | Ellen Cathrine Rasmussen | Director | Current  - |. | Bj\u00f8rn Werner Johansen | Director | Current  - |. ## Competitors & Alternates of N2 Applied As. | Rank | Company Details | Short Description | Total Funding | Investors | Tracxn Score |. [...] JavaScript is disabled in your browser. enable it to enjoy the full features of Tracxn. AI-powered market intelligence across companies, investors, and sectors. # N2 Applied As - Company Profile. ## About N2 Applied As. ## Brands associated with N2 Applied As. | Name | Short Description | Founded Year | Location | Current Stage |. | Logo for N2 Applied N2 Applied | Sustainable fertiliser solutions through innovative plasma technology for circular agriculture | 2010 | Norway | Series B |. ##",
+        "origins": [
+          {
+            "source": {
+              "name": "Technology & Data for Venture Capital, Corp Dev, Investment Banks",
+              "url": "https://tracxn.com/d/legal-entities/norway/n2-applied-as/__LbH95e9DBqEFTOXDxKWnEQlpC9iAWcBHIkIGb0Rk9J4"
+            },
+            "document": {
+              "name": "N2 Applied As - 2026 Company Profile - Tracxn",
+              "url": "https://tracxn.com/d/legal-entities/norway/n2-applied-as/__LbH95e9DBqEFTOXDxKWnEQlpC9iAWcBHIkIGb0Rk9J4"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11938f3c-493d-4b12-bc8a-ee3033ce96f4",
+        "content": "# N2 Applied. ## N2 Applied Overview. ##  Status  Private. ### N2 Applied General Information. Developer of plasma reactors designed to produce nitrogen fertilizer to take advantage of the nitrogen cycle on a farm. The company's reactors help farmers working across agriculture to produce their environment-friendly fertilizer by using livestock manure, air, and renewable energy by taking nitrogen out of animal dung, enabling farmers to recycle and obtain fertilizer at a lower cost while [...] Applied\u2019s complete patent history, request access \u00bb. ## N2 Applied Signals. ## N2 Applied Investors (9). You\u2019re viewing 5 of 9 investors.  ### When was N2 Applied founded?  ### Where is N2 Applied headquartered? N2 Applied is headquartered in Asker, Norway.  ### What is the size of N2 Applied? N2 Applied has 33 total employees.  ### What industry is N2 Applied in? N2 Applied\u2019s primary industry is Cultivation.  ### Is N2 Applied a private or public company? N2 Applied is a Private company.  ### [...] company.  ### What is N2 Applied\u2019s current revenue? The current revenue for N2 Applied is  . European Innovation Council, NorgesGruppen, Rasmussengruppen, Manure Challenge, and Holta Invest are 5 of 9 investors who have invested in N2 Applied.",
+        "origins": [
+          {
+            "source": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/profiles/company/181782-82"
+            },
+            "document": {
+              "name": "N2 Applied 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+              "url": "https://pitchbook.com/profiles/company/181782-82"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "3b7f54dd-d92c-4267-8712-3ec763cc951a",
+        "name": "N2 APPLIED AS",
+        "entity_type": "Company",
+        "mentions": [
+          "N2 Applied AS"
+        ]
+      },
+      {
+        "id": "3c6292c5-50d3-5cf8-b52c-ce69baeec2a0",
+        "name": "Oslo Municipality",
+        "entity_type": "CountrySubdivision",
+        "mentions": [
+          "Oslo"
+        ]
+      },
+      {
+        "id": "a634a2e2-ecd7-4253-bffb-8ece69e0191a",
+        "name": "Norway",
+        "entity_type": "Country",
+        "mentions": [
+          "Norway"
+        ]
+      },
+      {
+        "id": "485a1724-9928-58eb-83a2-9c18b0e2b0a1",
+        "name": "Asker",
+        "entity_type": "Municipality",
+        "mentions": [
+          "Asker"
+        ]
+      },
+      {
+        "id": "6c621b4b-6ed6-4a17-90ef-3f121f16b16a",
+        "name": "HOLTA INVEST AS",
+        "entity_type": "Company",
+        "mentions": [
+          "Holta Invest"
+        ]
+      },
+      {
+        "id": "ce83fa01-101b-4173-b0c9-e5c3ec65f12f",
+        "name": "BLUE RIVER INVEST AS",
+        "entity_type": "Company",
+        "mentions": [
+          "Blue River Invest"
+        ]
+      },
+      {
+        "id": "56476367-e3df-438d-8887-5c15c2ba76c8",
+        "name": "RASMUSSENGRUPPEN AS",
+        "entity_type": "Company",
+        "mentions": [
+          "Rasmussengruppen"
+        ]
+      },
+      {
+        "id": "edb94321-1c70-4341-8e51-1e47cd58cdfa",
+        "name": "NORGESGRUPPEN ASA",
+        "entity_type": "Company",
+        "mentions": [
+          "NorgesGruppen"
+        ]
+      }
+    ]
+  }
+}

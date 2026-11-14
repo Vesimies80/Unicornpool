@@ -1,0 +1,221 @@
+{
+  "input": "Unconventional Ventures: what does the company do, where is it based, how many employees, total funding raised and latest funding round",
+  "response": {
+    "content": "## Unconventional Ventures\n\n### What the company does\nUnconventional Ventures is a European **venture capital firm** that invests in early-stage (pre-seed and seed) tech startups led by **underrepresented founders** \u2014 including women, people of colour, and LGBTQ+ entrepreneurs. The firm focuses on sectors such as healthtech, climate/sustainability, fintech, and inclusive digital services, with check sizes ranging from approximately $250K to $5M. It also publishes an annual **Nordic Startup Funding Report** highlighting the funding gap in the ecosystem.\n\n### Headquarters\n**Copenhagen, Denmark** (Luganovej 20, Copenhagen 2300).\n\n### Employees\nApproximately **17 employees**, according to available profiles.\n\n### Funding raised (as a fund manager)\nUnconventional Ventures has raised **\u20ac52 million+** for its **Fund II** (with a first close of \u20ac50 million announced in November 2025, targeting a final close of \u20ac80 million). Backers include the **European Investment Fund** among other institutional investors.\n\n### Latest funding round\nThe most recent fundraising milestone was the **Fund II first close of \u20ac50 million in November 2025**, backed by the European Investment Fund and other investors.\n\n> *Note: As a VC firm, \"funding raised\" refers to capital committed to its investment funds rather than equity financing of the firm itself.*\n",
+    "explainability": [
+      {
+        "content": "Unconventional Ventures operates as a venture capital firm that invests in early\u2011stage technology startups led by underrepresented founders, focusing on sectors such as healthtech, climate, fintech and inclusive digital services.",
+        "references": [
+          "4e217bf8-5090-4248-9492-ec0a026faeb8",
+          "5f8276b2-0487-4b70-9380-48ff48ca3d1b",
+          "bc88ba18-13d2-456d-be89-1e55d6c217df"
+        ]
+      },
+      {
+        "content": "The firm is headquartered in Copenhagen, Denmark, with its office located at Luganovej\u202f20, Copenhagen\u202f2300.",
+        "references": [
+          "5f8276b2-0487-4b70-9380-48ff48ca3d1b",
+          "50ebb238-b791-4a00-b34d-4929abdc0568"
+        ]
+      },
+      {
+        "content": "Unconventional Ventures has approximately 17 employees, as indicated by publicly available profiles.",
+        "references": [
+          "50ebb238-b791-4a00-b34d-4929abdc0568"
+        ]
+      },
+      {
+        "content": "As a fund manager, the company has raised more than \u20ac52\u202fmillion for its Fund\u202fII, with a first close of \u20ac50\u202fmillion announced.",
+        "references": [
+          "4e217bf8-5090-4248-9492-ec0a026faeb8",
+          "a1945974-917a-4da3-a754-21ce90378b3b"
+        ]
+      },
+      {
+        "content": "The most recent fundraising event was the Fund\u202fII first close of \u20ac50\u202fmillion in November\u202f2025, backed by the European Investment Fund and other investors.",
+        "references": [
+          "a1945974-917a-4da3-a754-21ce90378b3b"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "4e217bf8-5090-4248-9492-ec0a026faeb8",
+        "content": "Entity: Unconventional Ventures (type: Company, ID: 13eea80c-c700-408b-8c0a-4e86518d3e26). Properties: name = Unconventional Ventures; description = Copenhagen-based VC backing underrepresented founders in tech, raised \u20ac52M+ for Fund II.; website = unconventionalvc.com. Outgoing relationship types HAS_PRESENCE_IN: Denmark. Outgoing relationship types OPERATES_IN_INDUSTRY: VENTURE_CAPITAL. Outgoing relationship types PARTICIPATES_IN_FUNDING_ROUND: Grant, Angel.",
+        "origins": [
+          {
+            "source": {
+              "name": "eu-startups.com",
+              "url": "https://www.eu-startups.com/"
+            },
+            "document": {
+              "name": "eu-startups.com",
+              "url": "https://www.eu-startups.com/2024/05/danish-industrial-biotech-startup-cellugy-raises-e49-million-to-replace-petrochemicals-in-personal-care-products/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Top 10 European VC Funds Raised in November 2025 | Papermark posted on the topic | LinkedIn",
+              "url": "https://www.linkedin.com/"
+            },
+            "document": {
+              "name": "Top 10 European VC Funds Raised in November 2025 | Papermark posted on the topic | LinkedIn",
+              "url": "https://www.linkedin.com/posts/papermarkio_top-10-vc-funds-in-europe-raised-in-november-activity-7403448210129752064-AePp"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "techarenan.news",
+              "url": "https://www.techarenan.news/"
+            },
+            "document": {
+              "name": "techarenan.news",
+              "url": "https://www.techarenan.news/2023/01/30/leia-health-stockholm-femtech-startup-raises-eur1-4m-to-provide-digitalized-postpartum-support/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50ebb238-b791-4a00-b34d-4929abdc0568",
+        "content": "Unconventional Ventures logo\n\n# Unconventional Ventures\n\n\ud83d\udccd Copenhagen, Denmark\ud83d\udc65 17 employees\ud83d\udcb0 Last funded Nov 2019\n\nVenture Capital and Private Equity Principals\ud83c\udf10 unconventional.vc\n\nWebsite  LinkedIn\n\nImpact focused VC investing in Early stage startups led by underrepresented founders in Europe.\n\nTotal investors\n\n0\n\nEarly stage\n\n0\n\nMid stage\n\n0\n\nLate stage\n\n\u2014\n\nFounded\n\n## Investors\n\n9 investors\n\nAll\n\nEarly stage\n\nMid stage\n\nLate stage\n\nOther investors\u00b7 11\n\nAurore Belfrage\n\nAurore Belfrage [...] Unconventional Ventures operates in Venture Capital and Private Equity Principals. Find similar Venture Capital and Private Equity Principals investors on gritt.io.\n\nWhere is Unconventional Ventures based?\n\nUnconventional Ventures is headquartered in Copenhagen, Denmark.\n\nFind investors for your startup like Unconventional Ventures\n\nGritt sends AI-personalised outreach to each investor \u2014 from your Gmail\n\nStart free \u2192 [...] Founders Collective & investor\n\n4 investments\n\nSep 2019Sophie Wiik\n\nSophie Wiik\n\nSvanemerket \ud83d\udc9a\ud83e\udda2 | b\u00e6rekraft, marked, forretningsutvikling, anskaffelser\n\nFounders Collective & investor\n\n4 investments\n\nSep 2019Kristine Moe Sirnes\n\nKristine Moe Sirnes\n\nJeg hjelper ledere, eksperter og virksomheter bli foretrukne i markedet sitt.\n\n8 investments\n\nSep 2019Louise Hoffmann\n\nLouise Hoffmann\n\nOmnichannel strategy | Channel enablement | Digital transformation | Stakeholder management | Digital marketing",
+        "origins": [
+          {
+            "source": {
+              "name": "Gritt.io - Investor Database",
+              "url": "https://www.gritt.io/company/unconventional-vc"
+            },
+            "document": {
+              "name": "Unconventional Ventures \u2014 investors & funding | gritt.io",
+              "url": "https://www.gritt.io/company/unconventional-vc"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5f8276b2-0487-4b70-9380-48ff48ca3d1b",
+        "content": "Unconventional Ventures operates as a venture capital firm. It invests in early-stage startups. The company provides funding and support to founders in the technology sector who are from diverse backgrounds. It was founded in 2018 and is based in Copenhagen, Denmark.\n\n## Headquarters Location\n\nLuganovej 20\n\nCopenhagen, 2300,\n\nDenmark\n\nAre you an investor?\n\nSubmit your portfolio details now to be considered in our investor rankings.\n\nSubmit portfolio details [...] First Round Capital operates as a venture capital firm. It focuses on seed-stage investments in the technology. The company provides financial support to startups and offers additional resources such as mentorship, hiring assistance, and customer acquisition strategies. It primarily serves the technology industry, with a particular interest in the enterprise, consumer, hardware, financial technology (fintech), and healthcare sectors. It was founded in 2004 and is based in Philadelphia, [...] to the success and expansion of innovative ventures while generating returns for their investors. It was founded in 1995 and is based in Isleworth, United Kingdom.",
+        "origins": [
+          {
+            "source": {
+              "name": "CB Insights \u2014 Predictive Intelligence on Private Companies",
+              "url": "https://www.cbinsights.com/investor/unconventional-ventures"
+            },
+            "document": {
+              "name": "Unconventional Ventures Portfolio Investments, Unconventional Ventures Funds, Unconventional Ventures Exits",
+              "url": "https://www.cbinsights.com/investor/unconventional-ventures"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "54901cee-2d0c-42d4-a1d4-b94e213957fe",
+        "content": "Company\u2022\ud83c\udde9\ud83c\uddf0Denmark\u2022Updated Jan 21, 2026. # Unconventional Ventures. Unconventional Ventures: Investor \u2022 focus on Impact, Venture Capital \u2022 active in Europe \u2022 offices in Denmark \u2022 AUM $20M. ## Company Profile. Unconventional Ventures is a European venture capital firm dedicated to investing in early-stage startups led by underrepresented founders. With a strong belief that diversity drives innovation, the firm focuses on supporting teams that challenge the status quo and bring fresh perspectives [...] fresh perspectives to technology and business. Unconventional Ventures is particularly passionate about funding women, LGBTQ+, and minority founders who are building scalable and impact-driven solutions. The firm takes a purpose-led approach to venture capital, aligning capital with positive societal change. It targets sectors where technology can be a force for good, such as healthtech, climate, fintech, and inclusive digital services. By combining capital, mentorship, and a community of [...] and a community of like-minded changemakers, Unconventional Ventures helps its portfolio companies grow sustainably while delivering measurable impact. Based in Copenhagen, the firm invests primarily across the Nordics and Europe, seeking out founders with bold visions and overlooked potential. Unconventional Ventures continues to expand its footprint and reputation as a champion for equitable access to venture funding, leading a new wave of inclusive innovation. ## News & Signals (0). No",
+        "origins": [
+          {
+            "source": {
+              "name": "InforCapital: Market Intelligence for Private Equity & Venture Capital",
+              "url": "https://inforcapital.com/companies/unconventional-ventures"
+            },
+            "document": {
+              "name": "Unconventional Ventures - Investor Profile",
+              "url": "https://inforcapital.com/companies/unconventional-ventures"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2c769da3-7bc3-4845-91ef-cd9f5c5433ec",
+        "content": "Unconventional Ventures Investor Information - Funding, Portfolio Companies, and More Discover the fastest growing tech startups around the world Discover the most active investors around the world Discover the fastest growing tech startups around the world Discover the most active investors around the world Unconventional Ventures is a venture capital fund investing in early-stage European startups. With check sizes from $250k to $5M, they support seed and Series A companies in sectors like [...] Bio( : Score icon28 )Series A Seedtable is your home for startup intelligence. ### Company Rankings ### Content ### Product ### Contact Us [...] in sectors like AR/VR, biotech, health tech, and climate tech. Committed to backing underrepresented founders, Unconventional Ventures has notable investments in Moonhub, Octarine Bio, and Saveggy. ### GET THE TOP 10 COMPANIES OF THE WEEK IN YOUR EMAIL, EVERY TUESDAY. #### OR DOWNLOAD OUR DATABASE OF 71,000 COMPANIES \u2192 ##### Recent Investments  Climate X( : Score icon48 )Series A  : Seedtable LogoThe Blue Box( : Score icon21 )Seed  Meela( : Score icon25 )Series A  Octarine Bio( : Score icon28",
+        "origins": [
+          {
+            "source": {
+              "name": "Seedtable: Connect with fast-growing startups at the perfect moment",
+              "url": "https://www.seedtable.com/investors/unconventional-ventures"
+            },
+            "document": {
+              "name": "Unconventional Ventures Investor Information - Funding, Portfolio ...",
+              "url": "https://www.seedtable.com/investors/unconventional-ventures"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a1945974-917a-4da3-a754-21ce90378b3b",
+        "content": "Co-founder\n\nThea Messel is a seasoned investor dedicated to addressing biases in the venture capital landscape.\n\n## Products & services\n\nLoading\u2026\n\n## Recent announcements\n\nU \n\nNov 11\n\nUnconventional Ventures Denmark\n\nUnconventional Ventures (UV) has raised \u20ac50 million for its second fund, aiming for \u20ac80 million, with backing from the European Investment Fund and others. Founded to support underrepresented founders, UV addresses biases in venture\u2026\n\nInvestors  \u00b7  European Investment Fund [...] Unconventional Ventures has closed a \u20ac50 million first close for its second fund, targeting an eventual total of \u20ac80 million, with backing from the European Investment Fund and other notable investors. The fund aims to support underrepresented European founders, particularly in sectors like climate sustainability and health.\n\n#### What it does [...] # Unconventional Ventures\n\nDenmark Denmark \u00b7 New Venture Capital Funds\n\nNew funding round from European Investment Fund 11 Nov 2025\n\nunconventional.vc   LinkedIn   Share\n\nVC brief\n\n## Latest Unconventional Ventures Signals\n\nSynthesising company profile\n\nReading press coverage to extract founders, customers, traction signals and competitive positioning\u2026",
+        "origins": [
+          {
+            "source": {
+              "name": "MapCo AI Deal Intelligence",
+              "url": "https://www.mapco.ai/company/unconventional-ventures"
+            },
+            "document": {
+              "name": "Unconventional Ventures \u2014 New Venture Capital Funds funding & jobs | MapCo",
+              "url": "https://www.mapco.ai/company/unconventional-ventures"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bc88ba18-13d2-456d-be89-1e55d6c217df",
+        "content": "Unconventional Ventures invests in scaleable, positive impact tech startups from the Nordics and beyond, at the pre-seed/seed stage targeting global market opportunities by diverse founders (women, POC &/or LGBTQ).\n\nRead more about Unconventional Ventures here.\n\nNordic Innovation supports The Startup Funding Report through the Nordic Female Entrepreneurship program.\n\nFacebook   Linkedin\n\n### Related Content\n\nLetters on top of a bookcase spelling out   \n\n##### Nordic Female Entrepreneurship [...] + What We Support\n  + Business tools\n  + Results\n About Us\n\n  + About Us\n  + Contact\n  + Board Members\n  + Career and Vacancies\n  + Press and Media\n  + Nordic next\n  + About us DK\n  + About us FIN\n  + About us NOR\n  + About us SWE\n\n# Launch: The Startup Funding Report by Unconventional Ventures\n\n10.11.2021  \n 12:00 - 13:00\n\nRegister here! \n\nThe startup funding report 10 november 2021 11 am CET\n\nThe untapped potential in the Nordic ecosystem and beyond. [...] Join Unconventional Ventures, Nordic Innovation and the other report partners as we reveal the key findings as well share their insights regarding the report and the untapped potential in the Nordic ecosystem and beyond.\n\nYou can register for free here.\n\nThe event takes place online 10 November 2021 11am CET.\n\n## About Unconventional Ventures",
+        "origins": [
+          {
+            "source": {
+              "name": "Front page",
+              "url": "https://www.nordicinnovation.org/events/2021/launch-startup-funding-report-unconventional-ventures"
+            },
+            "document": {
+              "name": "Launch: The Startup Funding Report by Unconventional Ventures | Nordic Innovation",
+              "url": "https://www.nordicinnovation.org/events/2021/launch-startup-funding-report-unconventional-ventures"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "13eea80c-c700-408b-8c0a-4e86518d3e26",
+        "name": "Unconventional Ventures",
+        "entity_type": "Company",
+        "mentions": [
+          "Unconventional Ventures"
+        ]
+      },
+      {
+        "id": "a8617083-69c3-52e0-8cee-c720e02c572d",
+        "name": "The European Investment Fund",
+        "entity_type": "Organization",
+        "mentions": [
+          "European Investment Fund"
+        ]
+      }
+    ]
+  }
+}

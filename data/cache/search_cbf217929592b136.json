@@ -1,0 +1,506 @@
+{
+  "input": "Nordic Ninja VC: what does the company do, where is it based, how many employees, total funding raised and latest funding round",
+  "response": {
+    "content": "## Nordic Ninja VC \u2014 Overview\n\n**What it does:** NordicNinja VC is a Japanese-backed venture capital firm that invests in European climate tech, deep tech, and digital society startups, with a focus on reducing the global carbon footprint. The firm typically invests around \u20ac2\u20134 million per deal at the Series A stage, with a particular interest in robotics, automation, health tech, AI, and mobility.\n\n**Headquarters:** Helsinki, Finland (with a presence in the United Kingdom).\n\n**Website:** [nordicninja.com](https://nordicninja.com)\n\n**Founded:** 2019\n\n**Backers / Investors:** The firm is backed by major Japanese corporates and institutions, including Honda, Panasonic, Omron, and the Japan Bank for International Cooperation (JBIC), as well as IG Partners and BaltCap.\n\n**Total fund capital raised:**\n- **Fund I:** ~\u20ac100 million\n- **Fund II:** \u20ac200 million (~$214 million), announced in September 2023\n\nThis brings total fund capital to approximately **\u20ac300 million** across two funds.\n\n**Notable portfolio companies:** Einride, CorPower Ocean, Starship Technologies, Varjo, Lightyear, SEEQC, Logmore, Mavenoid, Onego, Photoncycle, VSParticle, and tozero.\n\n**Employees:** Specific employee count data is not available, but NordicNinja operates as a lean VC team typical of firms of its size.\n",
+    "explainability": [
+      {
+        "content": "Nordic Ninja VC is described as a Japanese\u2011backed venture capital firm that invests in European climate tech, deep\u2011tech, and digital society startups focused on reducing the global carbon footprint.",
+        "references": [
+          "e41dc2e8-5cd6-4058-b37b-a17f7b3978c0"
+        ]
+      },
+      {
+        "content": "The firm\u2019s investment focus includes robotics, automation, health tech, AI and mobility, with typical deal sizes of \u20ac2\u20134\u202fmillion at the Series\u202fA stage.",
+        "references": [
+          "fc5d7907-7475-4e43-97e5-2b37cb937187"
+        ]
+      },
+      {
+        "content": "Nordic Ninja VC is headquartered in Helsinki, Finland, and also has a presence in the United Kingdom.",
+        "references": [
+          "e41dc2e8-5cd6-4058-b37b-a17f7b3978c0",
+          "f64d40b8-ebcf-4fda-bfc1-5eb96c31a4f8"
+        ]
+      },
+      {
+        "content": "The company was founded in 2019.",
+        "references": [
+          "f64d40b8-ebcf-4fda-bfc1-5eb96c31a4f8"
+        ]
+      },
+      {
+        "content": "The latest funding round is Fund\u202fII, a \u20ac200\u202fmillion fund announced in September\u202f2023.",
+        "references": [
+          "cbc89152-e9dc-407c-abbe-7dd10338f1ef"
+        ]
+      },
+      {
+        "content": "Combined with the earlier \u20ac100\u202fmillion Fund\u202fI, the total capital raised by Nordic Ninja VC is approximately \u20ac300\u202fmillion.",
+        "references": [
+          "cbc89152-e9dc-407c-abbe-7dd10338f1ef"
+        ]
+      },
+      {
+        "content": "Specific employee count is not available, but the firm operates as a lean VC team typical of its size.",
+        "references": [
+          "e41dc2e8-5cd6-4058-b37b-a17f7b3978c0"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "e41dc2e8-5cd6-4058-b37b-a17f7b3978c0",
+        "content": "Entity: Nordic Ninja VC (type: Company, ID: 6491b438-55eb-426b-8490-9c5bbf493c5a). Properties: name = Nordic Ninja VC; description = A Japanese-backed venture capital firm investing in European climate tech, deeptech, and digital society startups focused on reducing the global carbon footprint.; website = https://nordicninja.com. Outgoing relationship types HAS_HEADQUARTERS_IN: Finland, United Kingdom. Outgoing relationship types PARTICIPATES_IN_CORPORATE_EVENT: FINANCING_RAISED_OR_FACILITY_ENTERED, FINANCING_RAISED_OR_FACILITY_ENTERED, FINANCING_RAISED_OR_FACILITY_ENTERED, FINANCING_RAISED_OR_FACILITY_ENTERED. Incoming relationship types INVESTED_IN: IG Partners, Omron Corporation, AS BaltCap, NORDICNINJA VC LIMITED, HONDA MOTOR CO LTD, JAPAN BANK FOR INTERNATIONAL COOPERATION, Panasonic.",
+        "origins": [
+          {
+            "source": {
+              "name": "JBIC IG Partners",
+              "url": "https://www.jbicig.com/"
+            },
+            "document": {
+              "name": "JBIC IG Partners",
+              "url": "https://www.jbicig.com/en/news"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Announcing new fund II to help founders tackle global challenges - NordicNinja VC",
+              "url": "https://nordicninja.com/"
+            },
+            "document": {
+              "name": "Announcing new fund II to help founders tackle global challenges - NordicNinja VC",
+              "url": "https://nordicninja.com/pressrelease-fund2-english"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "sifted.eu",
+              "url": "https://sifted.eu/"
+            },
+            "document": {
+              "name": "sifted.eu",
+              "url": "https://sifted.eu/articles/japanese-vc-nordicninja-closes-new-e200m-fund-news"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Nordic Ninja",
+              "url": "https://fundingtrip.com/"
+            },
+            "document": {
+              "name": "Nordic Ninja",
+              "url": "https://fundingtrip.com/f/nordic-ninja"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Launching NordicNinja VC",
+              "url": "https://nordicninja.com/"
+            },
+            "document": {
+              "name": "Launching NordicNinja VC",
+              "url": "https://nordicninja.com/introducing-nordicninja"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "NordicNinja \u2013 Investment Thesis",
+              "url": "https://nordicninja.com/"
+            },
+            "document": {
+              "name": "NordicNinja \u2013 Investment Thesis",
+              "url": "https://nordicninja.com/fund"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "BaltCap co-founded NordicNinja VC announces new \u20ac200M Fund II | BaltCap",
+              "url": "https://www.baltcap.com/"
+            },
+            "document": {
+              "name": "BaltCap co-founded NordicNinja VC announces new \u20ac200M Fund II | BaltCap",
+              "url": "https://www.baltcap.com/baltcap-co-founded-nordicninja-vc-announces-new-e200m-fund-ii"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "www.venturecapitaljournal.com",
+              "url": "https://www.venturecapitaljournal.com/"
+            },
+            "document": {
+              "name": "www.venturecapitaljournal.com",
+              "url": "https://www.venturecapitaljournal.com/nordicninja-collects-e200m-will-expand-in-europe-uk"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Haynes Boone Represents NordicNinja in \u20ac200m Fund Closing |",
+              "url": "https://www.haynesboone.com/"
+            },
+            "document": {
+              "name": "Haynes Boone Represents NordicNinja in \u20ac200m Fund Closing |",
+              "url": "https://www.haynesboone.com/news/press-releases/haynes-boone-represents-nordicninja-in-200m-fund-closing"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "\u20ac100M NordicNinja VC fund officially launches operations in the Nordics and Baltics - ITKeyMedia",
+              "url": "https://itkey.media/"
+            },
+            "document": {
+              "name": "\u20ac100M NordicNinja VC fund officially launches operations in the Nordics and Baltics - ITKeyMedia",
+              "url": "https://itkey.media/e100m-nordicninja-vc-fund"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Equity Participation in Fund Investing in Startups in Northern Europe Strengthening the International Competitiveness of Japanese Companies through Investments in Northern Europe as Frontrunner in Sustainability & Digitalization Sector",
+              "url": "https://www.jbic.go.jp/"
+            },
+            "document": {
+              "name": "Equity Participation in Fund Investing in Startups in Northern Europe Strengthening the International Competitiveness of Japanese Companies through Investments in Northern Europe as Frontrunner in Sustainability & Digitalization Sector",
+              "url": "https://www.jbic.go.jp/en/information/press/press-2023/press_00093.html"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Portfolio Companies",
+              "url": "https://nordicninja.com/"
+            },
+            "document": {
+              "name": "Portfolio Companies",
+              "url": "https://nordicninja.com/portfolio"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "NordicNinja collects \u20ac200m, will expand in Europe, UK",
+              "url": "https://www.venturecapitaljournal.com/"
+            },
+            "document": {
+              "name": "NordicNinja collects \u20ac200m, will expand in Europe, UK",
+              "url": "https://www.venturecapitaljournal.com/nordicninja-collects-e200m-will-expand-in-europe-uk"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "NordicNinja VC - NAVA",
+              "url": "https://nordicasian.vc/"
+            },
+            "document": {
+              "name": "NordicNinja VC - NAVA",
+              "url": "https://nordicasian.vc/investor/nordicninja-vc"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fc5d7907-7475-4e43-97e5-2b37cb937187",
+        "content": "|  |  |\n --- |\n| Type | VC |\n| Website | nordicninja.vc |\n\n## Investment info\n\nInvests in\n\nGrowth and expansion\n\nInvestment range\n\n\u20ac < 25K\n\n\u20ac 25 - 50K\n\n\u20ac 50 - 100K\n\n\u20ac 100 - 500K\n\n\u20ac 0,5 - 1M\n\n\u20ac 1 - 5M\n\n\u20ac > 5M\n\nPrimary markets\n\nConsumer, Companies, Marketplace\n\nInvesting in countries\n\nDenmark, Finland, Norway, Sweden\n\n## Focus areas\n\nConsumer Goods\n\nConsumer Goods\n\nEnergy & Greentech\n\nEnergy & Greentech\n\nMedia & Entertainment\n\nMedia & Entertainment\n\nFintech\n\nFintech\n\nSee all 9 focus areas [...] We love tech, especially robotics, automation, health tech, AI and mobility, but we\u2019re open-minded. Our ideal investments are around 2-4 million euros, following the standard terms in the Nordics like seriesseed.fi and Startupdocs. We\u2019d also love to co-invest with the local investors, but if needed, we are happy to lead as well. \\\\Ninja Intelligence: Following the path of professional Ninjas who were brave, adaptive, loyal, proud, reactive and had immense dexterity.\n\n#### Startups they funded [...] A new venture capital fund supporting scale-up goals in the New Nordics. We are a venture capital firm with over 100 million euros to supporting scale-up goals in the Nordic and Baltic region. We know the investment size is not everything, and that\u2019s why we\u2019re proud to have an awesome network of great minds around the world, especially in Japan. We are backed by Honda, Panasonic, Omron and the Japan Bank for International Cooperation, making sure entering Japan has never been simpler! We are a",
+        "origins": [
+          {
+            "source": {
+              "name": "The Hub | Find your next exciting startup job",
+              "url": "https://thehub.io/funding/nordic-ninja-vc"
+            },
+            "document": {
+              "name": "The Hub | Funding | Nordic Ninja VC",
+              "url": "https://thehub.io/funding/nordic-ninja-vc"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f64d40b8-ebcf-4fda-bfc1-5eb96c31a4f8",
+        "content": "Skip to content\n\nFUNDING MAP / VENTURE CAPITAL\n\n# Nordic Ninja VC\n\nNordicNinja VC is a Helsinki-based, Japan-backed venture capital firm founded in 2019 that invests in Series A stage climate tech, deep tech and digital society companies across Northern Europe, backed by Japanese corporates including Honda, Panasonic and Omron.\n\nVenture Capital FI\n\nVISIT WEBSITE \u2197 THE FUNDING MAP [...] Nordic Ninja VC is one of 78 venture capital firms on the Nordic hardtech funding map, based in Finland. See the whole map or every list by type and origin.\n\n## Hardtech portfolio\n\nCorPower Ocean \u00b7 Einride \u00b7 Logmore \u00b7 Mavenoid \u00b7 Onego \u00b7 Photoncycle \u00b7 SEEQC \u00b7 VSParticle \u00b7 tozero \u00b7 Starship Technologies \u00b7 Varjo\n\n## Similar investors [...] ## Follow the whole funding map.\n\nThis page is one investor. Every two weeks we send new rounds, open raises and the investors behind them. Free, 8,000+ readers.\n\n### Before you go\n\nThe map, the companies, the raises - it all changes weekly. One sharp email carries the changes, every two weeks. 8,000+ readers.\n\nOne sharp email, every two weeks. 8,000+ readers.",
+        "origins": [
+          {
+            "source": {
+              "name": "Nordic Hardtech",
+              "url": "https://www.nordichardtech.com/funding/nordic-ninja-vc"
+            },
+            "document": {
+              "name": "Nordic Ninja VC \u00b7 Venture Capital in Finland \u00b7 Nordic Hardtech",
+              "url": "https://www.nordichardtech.com/funding/nordic-ninja-vc"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cbc89152-e9dc-407c-abbe-7dd10338f1ef",
+        "content": "NordicNinja, a European-Japanese VC firm, has unveiled a new \u20ac200 million ($214 million) fund to expand its investments in Europe.",
+        "origins": [
+          {
+            "source": {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/jonathankeane/2023/09/12/nordicninja-unveils-214-million-fund-to-invest-deeper-in-europe"
+            },
+            "document": {
+              "name": "NordicNinja Unveils $214 Million Fund To Invest Deeper In ...",
+              "url": "https://www.forbes.com/sites/jonathankeane/2023/09/12/nordicninja-unveils-214-million-fund-to-invest-deeper-in-europe"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f43e26ac-0cbf-4f39-9de5-1966f15d1798",
+        "content": "The funding was co-led by the EQT Ventures fund from Sweden and NordicNinja VC from Finland, and included Ericsson Ventures, Norrsken Foundation, Plum Alley Investments and Plug and Play Ventures. [...] Einride,  founded in 2016 by CEO Robert Falck and Filip Lilja, developed T/POD, a truck specifically designed for electric propulsion and autonomous driving. The Einride Pods are electric and modular and can be adapted to suit various loads. The goal is to speed the trend toward more efficient and sustainable delivery systems as logistics are stretched under the booming demand for goods worldwide. [...] The money will be used to continue development of its self-driving electric shipping vehicles and begin targeting international markets.",
+        "origins": [
+          {
+            "source": {
+              "name": "Discover what happens on the European investment scene",
+              "url": "https://nordic9.com/news/einride-announced-a-25m-investment-round-from-eqt-ventures-and-nordic-ninja-vc-news2343880077"
+            },
+            "document": {
+              "name": "Einride announced a $25M investment round from EQT Ventures and Nordic Ninja VC - Nordic9.com",
+              "url": "https://nordic9.com/news/einride-announced-a-25m-investment-round-from-eqt-ventures-and-nordic-ninja-vc-news2343880077"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9526937d-934e-4005-9d83-e8999bfe15e8",
+        "content": "### DACH\n\n Austria Austria\n Germany Germany\n Switzerland Switzerland\n\n### Nordics and Baltics\n\n Denmark Denmark\n Estonia Estonia\n Finland Finland\n Iceland Iceland\n Latvia Latvia\n Lithuania Lithuania\n Norway Norway\n Sweden Sweden\n\n### Western Europe\n\n France France\n Ireland Ireland\n Italy Italy\n Portugal Portugal\n Spain Spain\n United Kingdom United Kingdom\n\nTop [...] Financial Services Industry agnostic Marketplace Payment processing Software Services\n\nGermany Sweden United States Investments 02 August 2025\n\n## Bit2Me in a \u20ac30 million investment round led by Tether.\n\nBlockchain Financial Services Marketplace\n\nSpain United States Investments 08 July 2025\n\n## Spiko raised $22m in a Series A funding round led by Index Ventures and joined by angel investors.\n\nBlockchain Financial Services Marketplace [...] Round investors: Lightspeed Venture Partners NordicNinja VC Superangel Specialist VC Metaplanet Holdings Skaala\n\nCompany: Lightyear\n\nIndustry: Financial Services Marketplace\n\n### Related deals\n\n## Endavu in a DKK 280 million equity deal financed by Vaekstkapital in Denmark\n\nFinancial Services Marketplace Mobile\n\nDenmark Investments 21 September 2025\n\n## plancraft secured a \u20ac38 million Series B funding round led by Headline, with participation from existing investors Creandum, HTGF, and xdeck.",
+        "origins": [
+          {
+            "source": {
+              "name": "Discover what happens on the European investment scene",
+              "url": "https://nordic9.com/news/lightyear-secured-a-23-million-series-b-investment-round-led-by-nordic-ninja-vc-joined-by-superangel-specialistvc-lightspeed-metaplanet-and-skaala"
+            },
+            "document": {
+              "name": "Lightyear secured a $23 million Series B investment round led by Nordic Ninja VC, joined by Superangel, SpecialistVC, Lightspeed, Metaplanet and Skaala - Nordic9.com",
+              "url": "https://nordic9.com/news/lightyear-secured-a-23-million-series-b-investment-round-led-by-nordic-ninja-vc-joined-by-superangel-specialistvc-lightspeed-metaplanet-and-skaala"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "a46a1058-93a7-4b0f-bc1f-bc31238fb006",
+        "name": "NORDICNINJA VC LIMITED",
+        "entity_type": "Company",
+        "mentions": [
+          "NordicNinja VC"
+        ]
+      },
+      {
+        "id": "0c5000b2-6948-52d5-a4f3-a9a5bf951af3",
+        "name": "Helsinki",
+        "entity_type": "Municipality",
+        "mentions": [
+          "Helsinki"
+        ]
+      },
+      {
+        "id": "680000b7-a490-418f-8098-9b1757db2e58",
+        "name": "Finland",
+        "entity_type": "Country",
+        "mentions": [
+          "Finland"
+        ]
+      },
+      {
+        "id": "e332ff3d-605d-4b01-8222-5098236a3aff",
+        "name": "United Kingdom",
+        "entity_type": "Country",
+        "mentions": [
+          "United Kingdom"
+        ]
+      },
+      {
+        "id": "ed3df8c3-0c03-4a78-9cdc-7efac018bcdb",
+        "name": "HONDA MOTOR CO LTD",
+        "entity_type": "Company",
+        "mentions": [
+          "Honda"
+        ]
+      },
+      {
+        "id": "fe8a305c-e60f-40e2-a16e-7dc7aadf9fac",
+        "name": "Panasonic",
+        "entity_type": "Company",
+        "mentions": [
+          "Panasonic"
+        ]
+      },
+      {
+        "id": "79541014-622b-55c1-9cec-90ec2916faaa",
+        "name": "Omron Corporation",
+        "entity_type": "Organization",
+        "mentions": [
+          "Omron"
+        ]
+      },
+      {
+        "id": "f7ca0f6b-343d-4d10-af54-921e27b950c0",
+        "name": "JAPAN BANK FOR INTERNATIONAL COOPERATION",
+        "entity_type": "Company",
+        "mentions": [
+          "Japan Bank for International Cooperation"
+        ]
+      },
+      {
+        "id": "7400a5a8-3ab6-4e48-b8ee-483551dbe4ed",
+        "name": "IG Partners",
+        "entity_type": "Company",
+        "mentions": [
+          "IG Partners"
+        ]
+      },
+      {
+        "id": "83862694-4dd9-46b8-b063-cba779e0aa52",
+        "name": "AS BaltCap",
+        "entity_type": "Company",
+        "mentions": [
+          "BaltCap"
+        ]
+      },
+      {
+        "id": "5c18ee4e-2237-4366-94c7-5f0bd5d034d1",
+        "name": "Einride AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Einride"
+        ]
+      },
+      {
+        "id": "52efd83b-3388-482a-9fad-602895638481",
+        "name": "Corpower Ocean AB",
+        "entity_type": "Company",
+        "mentions": [
+          "CorPower Ocean"
+        ]
+      },
+      {
+        "id": "4b621d7e-3f54-4d61-8a49-c8a0ec5a6f0e",
+        "name": "Starship Technologies",
+        "entity_type": "Company",
+        "mentions": [
+          "Starship Technologies"
+        ]
+      },
+      {
+        "id": "ebc9b5ba-aa08-4c1f-bdfd-7df51fd70b11",
+        "name": "Varjo Technologies Oyj",
+        "entity_type": "Company",
+        "mentions": [
+          "Varjo"
+        ]
+      },
+      {
+        "id": "769e1171-9052-40bb-af50-55896bd2ea44",
+        "name": "Lightyear Technology B.V.",
+        "entity_type": "Company",
+        "mentions": [
+          "Lightyear"
+        ]
+      },
+      {
+        "id": "a33d44b0-3b29-42d4-94c4-d3707c94d1c1",
+        "name": "SeeQC, Inc.",
+        "entity_type": "Company",
+        "mentions": [
+          "SEEQC"
+        ]
+      },
+      {
+        "id": "72561338-dccc-454b-a12e-acad6f73837f",
+        "name": "Logmore",
+        "entity_type": "Company",
+        "mentions": [
+          "Logmore"
+        ]
+      },
+      {
+        "id": "e5776d47-f650-4cd5-b958-b1d75de8ab64",
+        "name": "Mavenoid",
+        "entity_type": "Company",
+        "mentions": [
+          "Mavenoid"
+        ]
+      },
+      {
+        "id": "16223230-e787-4182-bae2-f7c5e03c3acf",
+        "name": "Onego Bio",
+        "entity_type": "Company",
+        "mentions": [
+          "Onego"
+        ]
+      },
+      {
+        "id": "d5f8974b-7765-44f7-afc6-6f1767b8bad0",
+        "name": "Photoncycle",
+        "entity_type": "Company",
+        "mentions": [
+          "Photoncycle"
+        ]
+      },
+      {
+        "id": "2a321630-0bc4-4c23-a02e-7f69061cf02b",
+        "name": "tozero",
+        "entity_type": "Company",
+        "mentions": [
+          "tozero"
+        ]
+      }
+    ]
+  }
+}

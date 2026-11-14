@@ -1,0 +1,38 @@
+{
+  "input": "early-stage climate tech startups in the Nordics founded after 2019 with total funding under 10M, with funding amount, round type, employee count and year",
+  "response": {
+    "results": [
+      {
+        "name": "Nordic Forestry Automation (NFA)",
+        "total_funding": "$5.9M",
+        "round_type": "Seed (2023), Early VC (2026)",
+        "employees": "~10\u201315",
+        "founded_year": 2021
+      },
+      {
+        "name": "Volta Local Energy",
+        "total_funding": "$7.3M",
+        "round_type": "Seed (2022, 2023)",
+        "employees": null,
+        "founded_year": 2020
+      },
+      {
+        "name": "Agreena",
+        "total_funding": "under $10M (seed/Series A)",
+        "round_type": "Seed, Series A",
+        "employees": "~50\u2013100",
+        "founded_year": 2020
+      }
+    ],
+    "entities": [
+      {
+        "id": "8bfb91d6-cbf1-45c7-a05a-6f4b5072f744",
+        "name": "Agreena",
+        "entity_type": "Company",
+        "mentions": [
+          "Agreena"
+        ]
+      }
+    ]
+  }
+}

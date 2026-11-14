@@ -1,0 +1,410 @@
+{
+  "input": "Course Corrected VC Fund I AB: what does the company do, where is it based, how many employees, total funding raised and latest funding round",
+  "response": {
+    "content": "## Course Corrected VC Fund I AB\n\n### What the company does\nCourse Corrected VC Fund I AB is a **venture capital fund** focused on investing in **early-stage climate technology startups**. It backs companies developing innovative solutions to address climate change, specializing in sectors such as **decarbonization, energy efficiency, electrification, industrial process transformation, and carbon capture**. The fund primarily targets Pre-Seed, Seed, and Series A stages, with typical initial investments ranging from \u20ac100K to \u20ac2.5M. It has a primary focus on the **Nordic region** (Sweden, Norway, Denmark, Finland, Iceland) as well as select European and international markets.\n\nFund I has backed **16 disruptive companies** across the climate tech landscape and is now closed. It is managed by **Course Corrected**, a firm founded in 2021 by three female general partners: Christine Ahlstrand, Katja Bergman, and Kerstin Cooley.\n\n### Headquarters\n**Stockholm, Sweden**\nAddress: Artillerigatan 25, 114 45 Stockholm, Sweden\n\n### Employees\nCourse Corrected operates as a small VC team. Publicly available sources list approximately **5 team members**, including the three founding general partners and additional investment professionals. An exact employee count for the Fund I AB entity specifically is not publicly disclosed.\n\n### Total funding raised / Fund size\nThe exact size of **Fund I** is not publicly disclosed on platforms such as PitchBook. However, the firm has since raised its **second fund (Fund II)**, which closed at **\u20ac80 million (~$90 million)** as reported in November 2026, with key backers including the **European Investment Fund (EIF)**, **Saminvest**, **SEB Life & Pension**, and **SEB-Stiftelsen**.\n\n### Latest funding round (Fund II)\nThe most recent fundraising activity by Course Corrected is the **final close of Fund II at \u20ac80 million**, announced on November 11, 2026. This followed a first close of over \u20ac63.9 million (SEK 720 million) announced earlier. Fund II targets investments in electrification, energy systems, and industrial automation.\n",
+    "explainability": [
+      {
+        "content": "Course Corrected VC Fund I AB is described as a Swedish venture capital fund founded in 2021 and headquartered in Stockholm, confirming its nature as a VC entity and its location.",
+        "references": [
+          "b4994597-b3a5-458b-b8f8-0f7c75c8c952"
+        ]
+      },
+      {
+        "content": "The fund\u2019s purpose is to invest in early\u2011stage climate technology startups, focusing on sectors such as decarbonisation, energy efficiency and carbon capture, which defines what the company does.",
+        "references": [
+          "867915db-66f4-4375-876f-8bb3958ee079"
+        ]
+      },
+      {
+        "content": "The headquarters address listed as Artillerigatan 25, Stockholm, Sweden provides the specific city and country for the company\u2019s base.",
+        "references": [
+          "b4994597-b3a5-458b-b8f8-0f7c75c8c952",
+          "6a46d53a-8349-4800-92c1-9a0be4b4f695"
+        ]
+      },
+      {
+        "content": "The team page shows three founding general partners and additional investment professionals in Stockholm, indicating roughly five team members, which supports the employee count estimate.",
+        "references": [
+          "b4242790-940e-4283-8c51-19a6810d5cd2"
+        ]
+      },
+      {
+        "content": "Fund II closed at \u20ac80\u202fmillion in November\u202f2026, as reported, providing the latest fundraising round and indicating the total funding raised for the second fund; the size of Fund I is not disclosed, so the answer notes the lack of public data.",
+        "references": [
+          "d1cc42d1-2c5e-441b-b438-637fda770b7f"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "b4994597-b3a5-458b-b8f8-0f7c75c8c952",
+        "content": "Entity: Course Corrected VC Fund I AB (type: Company, ID: 2b8a2d06-6e9c-4e01-8c97-3d969d01bce0). Properties: description = A Swedish venture capital fund founded in 2021, headquartered in Stockholm.; founding_date = 2021-10-21; headquarters_address = C/O Course Corrected VC Fund Management I AB, Artillerigatan 25, Stockholm, SE-AB, 111 45, SE; legal_name = Course Corrected VC Fund I AB. Outgoing relationship types HAS_HEADQUARTERS_IN: Stockholms l\u00e4n [SE-01]. Outgoing relationship types PARTICIPATES_IN_FUNDING_ROUND: Seed, Pre-Seed, Convertible Notes round, Equity round, Series A.",
+        "origins": [
+          {
+            "source": {
+              "name": "energyglobal.com",
+              "url": "https://www.energyglobal.com/"
+            },
+            "document": {
+              "name": "energyglobal.com",
+              "url": "https://www.energyglobal.com/energy-storage/10092026/tavion-starts-development-of-its-first-battery-parks-in-poland/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "bebeez.eu",
+              "url": "https://bebeez.eu/"
+            },
+            "document": {
+              "name": "bebeez.eu",
+              "url": "https://bebeez.eu/2025/06/12/with-e2-5m-seed-round-swedish-engrate-aims-to-digitally-unclog-europes-energy-bottlenecks/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "se.linkedin.com",
+              "url": "https://se.linkedin.com/"
+            },
+            "document": {
+              "name": "se.linkedin.com",
+              "url": "https://se.linkedin.com/in/piajonsson"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "modvion.com",
+              "url": "https://modvion.com/"
+            },
+            "document": {
+              "name": "modvion.com",
+              "url": "https://modvion.com/news/wood-technology-company-modvion-successfully-raises-125-million-sek/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "mynewsdesk.com",
+              "url": "https://www.mynewsdesk.com/"
+            },
+            "document": {
+              "name": "mynewsdesk.com",
+              "url": "https://www.mynewsdesk.com/se/bird___bird/pressreleases/bird-and-bird-advises-engrate-on-2-euros-5-cents-million-capital-raise-3393501"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "hyperionrobotics.com",
+              "url": "https://www.hyperionrobotics.com/"
+            },
+            "document": {
+              "name": "hyperionrobotics.com",
+              "url": "https://www.hyperionrobotics.com/hyperion-robotics-raises-7-4-million-to-scale/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "GLEIF",
+              "url": "https://search.gleif.org/"
+            },
+            "document": {
+              "name": "GLEIF",
+              "url": "https://search.gleif.org/#/record/636700QSFMX3T3A2PA58"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "eu-startups.com",
+              "url": "https://www.eu-startups.com/"
+            },
+            "document": {
+              "name": "eu-startups.com",
+              "url": "https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/"
+            },
+            "document": {
+              "name": "app.dealroom.co",
+              "url": "https://app.dealroom.co/companies/tavion"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "modvion.com",
+              "url": "https://modvion.com/"
+            },
+            "document": {
+              "name": "modvion.com",
+              "url": "https://modvion.com/news/modvion-tar-in-125-miljoner-kronor-i-nytt-kapital/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "867915db-66f4-4375-876f-8bb3958ee079",
+        "content": "startups, Course Corrected VC aims to address the global climate crisis while generating significant financial returns. Course Corrected VC is a venture capital firm based in Stockholm, Sweden, founded in 2021. The firm focuses on investing in early-stage climate technology startups that aim to develop solutions addressing climate change. Specializing in sectors such as decarbonization, energy efficiency, and carbon capture, Course Corrected VC supports companies that are working to transform [...] to transform industrial processes and advance sustainable technologies. As we look to scale decarbonization technologies globally, we are eager to continue supporting the next generation of climate tech leaders, with the potential to bring both outsized emissions reductions and top-tier f inancial returns \u201d said Christine Ahlstrand, one of the three Founders of Course Corrected VC. The launch of Fund II follows the successful deployment of Fund I, which has backed 16 disruptive companies across [...] companies across the climate tech landscape, spanning electrification and energy e iciency, industrial process transformation, carbon capture utilization and storage, and more across significant market shifts. Course Corrected VC was founded in 2021 with the mission to invest in companies developing innovative solutions to address climate change. With the successful first close of Fund II, Course Corrected VC is well-positioned to continue its mission to support the next generation of climate",
+        "origins": [
+          {
+            "source": {
+              "name": "arcticstartup.com",
+              "url": "https://arcticstartup.com/course-corrected-vc-fund-ii-e66-5m?amp=1"
+            },
+            "document": {
+              "name": "Sweden\u2019s Course Corrected VC secures over \u20ac63 million for second fund to scale climate tech solutions",
+              "url": "https://arcticstartup.com/course-corrected-vc-fund-ii-e66-5m?amp=1"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "992995e4-bb23-4a3c-afab-a9105eb0b422",
+        "content": "# Course Corrected VC Fund I\n\n## Course Corrected VC Fund I Overview\n\n##  Fund Strategy  Venture\n\n##  Fund Status  Closed\n\n##  Fund Manager  Course Corrected\n\n##  Size\n\n##  Dry Powder\n\n### Course Corrected VC Fund I General Information\n\n#### Description\n\nCourse Corrected VC Fund I is a venture capital fund managed by Course Corrected. The fund is located in Stockholm, Sweden.\n\n#### Contact Information\n\nFund Manager\n\nCourse Corrected\n\nFund Manager Website\n\nwww.cc.vc\n\nFund Category [...] Course Corrected VC Fund I is managed by Course Corrected.\n ### Where is Course Corrected VC Fund I domiciled?\n\n  Course Corrected VC Fund I is domiciled in Sweden.\n ### What is Course Corrected VC Fund I's size?\n\n  Course Corrected VC Fund I has a size of .\n ### What type of fund is Course Corrected VC Fund I?\n\n  The fund type of Course Corrected VC Fund I is Venture.\n ### What is the status of Course Corrected VC Fund I?\n\n  Course Corrected VC Fund I is closed.\n\n### Data Transparency [...] Fund Category\n\nVenture Capital\n\nFund Family\n\nCourse Corrected VC Fund\n\nNative Currency\n\n##### Fund Manager's Location\n\n Artillerigatan 25\n 114 45 Stockholm\n Sweden\n\nFund Domiciles\n\n### Want detailed data on 11M+ companies?\n\nWhat you see here scratches the surface\n\nRequest a free trial\n\n### Want to dig into this profile?\n\nWe\u2019ll help you find what you need\n\nLearn more\n\n## Course Corrected VC Fund I Investment Strategy\n\nInvestments by Industry\n\nInvestments by Deal Type",
+        "origins": [
+          {
+            "source": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/profiles/fund/27334-99F"
+            },
+            "document": {
+              "name": "Course Corrected VC Fund I: Performance | PitchBook",
+              "url": "https://pitchbook.com/profiles/fund/27334-99F"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b4242790-940e-4283-8c51-19a6810d5cd2",
+        "content": "| Name | Job title | Location | Email |\n ---  --- |\n| Key Contact user imageMs. Christine Ahlstrand | Job titleFounder and General Partner | LocationStockholm, Sweden | Emaillock image---------- |\n| user imageMs. Katja Bergman | Job titleFounder and General Partner | LocationStockholm, Sweden | Emaillock image-------- |\n| user imageMs. Kerstin Cooley | Job titleFounder and General Partner | LocationStockholm, Sweden | Emaillock image----------- | [...] PEI logo\n\naccount iconSign in or Register\n\n# Course Corrected VC\n\nNews, insights, analysis and data\n\n## Course Corrected VC overview\n\n## Course Corrected VC contact information\n\n### Offices\n\nmarker iconArtillerigatan 25, Stockholm, 114 45, Sweden\n\nShowing 1 of 1 Course Corrected VC offices\n\n100 Sample Street, City, 00000, Country\n\nShowing 1 of 10 Course Corrected VC offices\n\n### Contacts [...] | user imageMr. Hampus Bj\u00f6rklin | Job titleInvestor | LocationStockholm, Sweden | Emaillock image-------- |\n| Showing 4 of 5 Course Corrected VC contacts |",
+        "origins": [
+          {
+            "source": {
+              "name": "Private Equity International | PEI | Global Private Equity News & Analysis",
+              "url": "https://www.privateequityinternational.com/institution-profiles/course-corrected-vc.html"
+            },
+            "document": {
+              "name": "Course Corrected VC | Institution Profile | Private Equity International",
+              "url": "https://www.privateequityinternational.com/institution-profiles/course-corrected-vc.html"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6a46d53a-8349-4800-92c1-9a0be4b4f695",
+        "content": "## Overview\n\nCourse Corrected is a climate-focused VC fund investing in early-stage start-ups in the Nordics. The fund supports entrepreneurs and teams with scalable businesses disrupting incumbents. Course Corrected has made 32 investments, including a Seed VC investment in Renasens on March 25, 2026.\n\nWebsite\n\ncc.vc\n\nLinkedIn\n\nlinkedin.com/company/course-corrected\n\n### General information\n\nFirm type\n\nPrivate Equity\n\nYear founded\n\n2021\n\n### Location\n\nRegion\n\nEurope\n\nCountry\n\nSweden\n\nCity [...] Research\n\nResearch and reference  \non private markets.\n\nInsights, rankings and the reference library on private markets. Historical research keeps its original date.\n\nInsightsRankings\n\nReference\n\n Glossary\n Taxonomy\n Frameworks\n\nCourse Corrected logo\n\nPrivate Equity\n\nUpdated:\n\n# Course Corrected\n\nCourse Corrected is a climate-focused VC fund investing in early-stage start-ups in the Nordics. The fund supports entrepreneurs and teams with scalable...\n\n## Overview [...] Sweden\n\nCity\n\nStockholm\n\nCorporate office\n\nStockholm, Sweden\n\n### Sector focus\n\nPrivate Equity\n\n## Frequently asked questions\n\n### What stages does Course Corrected target?\n\nThe firm focuses on seed, start-up, and expansion or late-stage rounds.\n\n### Where is Course Corrected based?\n\nHeadquarters are in Stockholm, Sweden.\n\n### Does Course Corrected publish AUM figures?\n\nNo AUM number is publicly disclosed.",
+        "origins": [
+          {
+            "source": {
+              "name": "Modern fundraising intelligence for alternative investments",
+              "url": "https://altss.com/profile/course-corrected"
+            },
+            "document": {
+              "name": "Course Corrected | Stockholm Private Equity | Altss",
+              "url": "https://altss.com/profile/course-corrected"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d1cc42d1-2c5e-441b-b438-637fda770b7f",
+        "content": "# Swedish VC Firm Course Corrected Closes \u20ac80 Million Second Fund. Swedish venture capital firm Course Corrected VC AB has raised \u20ac80 million ($90 million) for its second fund, including a \u20ac35 million commitment from the European Investment Fund. The Stockholm-based manager also counted state-owned investor Saminvest, SEB Life & Pension and SEB-Stiftelsen among its backers, according to emailed comment from founding partner Christine Ahlstrand. The fund will target investments in areas including electrification, energy systems and industrial automation.",
+        "origins": [
+          {
+            "source": {
+              "name": "bloomberg.com",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-11/swedish-vc-firm-course-corrected-closes-80-million-second-fund"
+            },
+            "document": {
+              "name": "Swedish VC Firm Course Corrected Closes \u20ac80 Million Second Fund - Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-11/swedish-vc-firm-course-corrected-closes-80-million-second-fund"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9e65daab-2d57-4217-8938-3f7bd6b33782",
+        "content": "Sweden's Course Corrected VC secures over \u20ac63 million for second ... [...] # Sweden\u2019s Course Corrected VC secures over \u20ac63 million for second fund to scale climate tech solutions Course Corrected VC has successfully closed the first round of its second fund, raising over \u20ac63.9 million (SEK 720 million). With the successful first close of Fund II, Course Corrected VC is well-positioned to continue its mission to support the next generation of climate tech leaders. By supporting Course Corrected VC Fund II, we are helping these companies bridge the gap from research to [...] from research to commercialization, while strengthening Europe\u2019s leadership in climate innovation.\u201d > \u201cSaminvest is proud to partner with Course Corrected VC, a team with a strong track record and a deep commitment to supporting innovative climate tech companies. #### Related News ### Swedish-Chinese entrepreneur Carl Pei\u2019s Nothing eaises $200M Series C to build AI-native consumer tech ### Swedish Sana reaches unicorn status as Workday signs $1.1B agreement ### Outlast Fund launches \u20ac21M",
+        "origins": [
+          {
+            "source": {
+              "name": "arcticstartup.com",
+              "url": "https://arcticstartup.com/course-corrected-vc-fund-ii-e66-5m"
+            },
+            "document": {
+              "name": "Sweden's Course Corrected VC secures over \u20ac63 million for second ...",
+              "url": "https://arcticstartup.com/course-corrected-vc-fund-ii-e66-5m"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b9d85d10-4544-4e5c-a67b-bb659d290503",
+        "content": "Course Corrected VC is a venture capital firm based in Stockholm, Sweden, focusing on early-stage climate-positive technology companies. Founded in 2021 by three female general partners with extensive experience in venture capital and the climate tech sector, the firm aims to support entrepreneurs developing innovative solutions to address climate change. Their investment strategy targets companies in sectors such as decarbonization, energy efficiency, and carbon capture, with a commitment to [...] various industries, including climate tech, energy, sustainability, decarbonization, carbon capture, energy efficiency, electrification, industrial process transformation, green hydrogen, alternative proteins, pet food, carbon removal, concrete industry, electric vehicles, and 3D printing. Since its inception, Course Corrected VC has made 23 investments, with a recent focus on companies like Engrate, a universal integration platform for energy technology companies. In February 2025, the firm [...] a commitment to transforming industrial processes and advancing sustainable technologies. The firm primarily invests in Pre-Seed, Seed, and Series A stages, with typical investments ranging from \u20ac100,000 to \u20ac1.5 million. Geographically, Course Corrected VC focuses on the Nordic region, including Sweden, Norway, Denmark, Finland, and Iceland, as well as select international markets such as Germany, the United Kingdom, France, and the United States. Their portfolio spans various industries,",
+        "origins": [
+          {
+            "source": {
+              "name": "allbusiness.africa",
+              "url": "https://allbusiness.africa/investors/course-corrected-vc"
+            },
+            "document": {
+              "name": "Course Corrected VC | All Business Africa",
+              "url": "https://allbusiness.africa/investors/course-corrected-vc"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ef67b104-c9a8-4010-8af2-33aeca4f583c",
+        "content": "Course Corrected VC is a venture capital firm based in Stockholm, Sweden, focusing on early-stage climate-positive technology companies. Founded in 2021 by three female general partners with extensive experience in venture capital and the climate tech sector, the firm aims to support entrepreneurs developing innovative solutions to address climate change. Their investment strategy targets companies in sectors such as decarbonization, energy efficiency, and carbon capture, with a commitment to [...] 2025, the firm announced the first close of its second fund, raising over \u20ac63 million (SEK 720 million), backed by investors such as the European Investment Fund (EIF), Saminvest AB, SEB Life and Pension, and SEB Stiftelsen. This fund aims to scale decarbonization technologies and support the commercialization of solutions in areas like electrification, carbon capture, and energy efficiency. The firm's mission is to back outstanding entrepreneurs and teams with fast-growing and scalable [...] Skip to the main content\n\nVenture CapitalPre-SeedSeedSeries A\n\n# Course Corrected VC\n\nStockholms l\u00e4n Founded 2021 Website LinkedIn\n\nCheque Size$100K to $2M\n\nStages3\n\nIndustries15\n\nMarkets21\n\nStated Portfolio11\n\nOperating Since2021 (5y)\n\n## About Course Corrected VC",
+        "origins": [
+          {
+            "source": {
+              "name": "allbusiness.africa",
+              "url": "https://allbusiness.africa/investors/course-corrected-vc"
+            },
+            "document": {
+              "name": "Course Corrected VC | All Business Africa",
+              "url": "https://allbusiness.africa/investors/course-corrected-vc"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ad2ce857-72e0-4f22-ac22-623dbcdeb733",
+        "content": "Investor profile for Course Corrected (CC.VC): reported initial check, investment stages, sector focus, portfolio companies, sources, and verification status. Part of the Venture Capital Tracker directory. VC fund profile \u00b7 evidence-aware directory data. # Course Corrected (CC.VC) check size, stages and portfolio. Course Corrected VC (CC.VC) is a Stockholm early-stage manager founded in 2021 by Christine Ahlstrand, Katja Bergman and Kerstin Cooley. It invests \u20ac500K\u2013\u20ac2.5M initially from pre-seed to Series A across Nordic and European energy systems, industrial optimization, electrification and resource-smart solutions. Official Course Corrected (CC.VC) website \u2197. ## Keep track of Course Corrected (CC.VC). Official manager site initial cheques \u20ac0.5M\u2013\u20ac2.5M; does not imply fund commitments or LP allocations. Leads: Pre-Seed, Seed, Series A. Participates: Pre-Seed, Seed, Series A. A separate fund-size evidence record is not yet available. ## Portfolio in our directory. ## Rounds they lead. Pre-Seed  Seed  Series A. ## Rounds they invest. Startups in our directory that list Course Corrected (CC.VC) as an investor (1 total).",
+        "origins": [
+          {
+            "source": {
+              "name": "VC Funds Directory | Discover Venture Capital Investors | VentureCapitalTracker",
+              "url": "https://venturecapitaltracker.com/fund/course-corrected"
+            },
+            "document": {
+              "name": "Course Corrected (CC.VC) Check Size, Stages & Portfolio",
+              "url": "https://venturecapitaltracker.com/fund/course-corrected"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b6b5bb84-e01e-4580-b869-3fbe52073408",
+        "content": "# Course Corrected VC Fund I. ## Course Corrected VC Fund I Overview. ## * Fund Manager * Course Corrected. ### Course Corrected VC Fund I General Information. Course Corrected VC Fund I is a venture capital fund managed by Course Corrected. ## Course Corrected VC Fund I Investment Strategy. ## Course Corrected VC Fund I Returns Data. The below charts are illustrative of the type of graphical data available to our clients and do not represent live data. ## Course Corrected VC Fund I FAQs. Course Corrected VC Fund I is managed by Course Corrected. * ### Where is Course Corrected VC Fund I domiciled? Course Corrected VC Fund I is domiciled in Sweden. * ### What is Course Corrected VC Fund I's size? * ### What type of fund is Course Corrected VC Fund I? The fund type of Course Corrected VC Fund I is Venture. * ### What is the status of Course Corrected VC Fund I? Course Corrected VC Fund I is closed.",
+        "origins": [
+          {
+            "source": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/profiles/fund/27334-99F"
+            },
+            "document": {
+              "name": "Course Corrected VC Fund I: Performance | PitchBook",
+              "url": "https://pitchbook.com/profiles/fund/27334-99F"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "2b8a2d06-6e9c-4e01-8c97-3d969d01bce0",
+        "name": "Course Corrected VC Fund I AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Course Corrected VC Fund I AB",
+          "Course Corrected"
+        ]
+      },
+      {
+        "id": "a8617083-69c3-52e0-8cee-c720e02c572d",
+        "name": "The European Investment Fund",
+        "entity_type": "Organization",
+        "mentions": [
+          "European Investment Fund"
+        ]
+      },
+      {
+        "id": "077d67bb-1ec0-484e-892a-4140d31af6d1",
+        "name": "Saminvest AB",
+        "entity_type": "Company",
+        "mentions": [
+          "Saminvest"
+        ]
+      },
+      {
+        "id": "be2845da-b1d4-4830-982f-2af1567e67a2",
+        "name": "SEB Pension och F\u00f6rs\u00e4kring AB",
+        "entity_type": "Company",
+        "mentions": [
+          "SEB Life & Pension"
+        ]
+      },
+      {
+        "id": "4b6f5fbd-292d-4832-aa49-29953eb703ab",
+        "name": "SEB-Stiftelsen",
+        "entity_type": "Organization",
+        "mentions": [
+          "SEB-Stiftelsen"
+        ]
+      }
+    ]
+  }
+}

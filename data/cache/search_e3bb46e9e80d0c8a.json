@@ -1,0 +1,478 @@
+{
+  "input": "Agreena: what does the company do, where is it based, how many employees, total funding raised and latest funding round",
+  "response": {
+    "content": "## Agreena \u2014 Company Overview\n\n**What they do:** Agreena is a carbon-farming platform operating at the intersection of agritech, software, and fintech. Its primary product, AgreenaCarbon, helps farmers transition to regenerative agricultural practices and earn carbon credits verified under Verra's Verified Carbon Standard. The platform uses scientific Measurement, Reporting, and Verification (MRV) technology to provide agricultural data and sustainability metrics.\n\n**Headquarters:** Copenhagen, Denmark (Langebrogade 3F, 3rd Floor, 1411 Copenhagen K)\n\n**Website:** agreena.com\n\n**Founded:** 2018, by Julie Koch Fahler, Ida Boesen, and Simon Haldrup\n\n**Employees:** ~200\n\n**Total funding raised:** ~$84.2 million across 5 funding rounds\n\n**Latest funding round:** Series B \u2014 \u20ac46 million (~$53.4M), closed on 30 March 2023, led by HV Capital. Other notable investors include Kinnevik, Giant Ventures, Anthemis Group, and the Danish Green Investment Fund.\n",
+    "explainability": [
+      {
+        "content": "Agreena is described as a carbon\u2011farming platform that operates at the intersection of software, fintech and agritech, offering the AgreenaCarbon product that helps farmers adopt regenerative practices and earn verified carbon credits.",
+        "references": [
+          "ac284fa1-f9ee-4274-9da8-76224f2a0abb",
+          "39a3d7f7-5913-4932-8a34-9e02bb7f9eea"
+        ]
+      },
+      {
+        "content": "The company\u2019s headquarters are located at Langebrogade 3F, 3rd Floor, 1411 Copenhagen K, Denmark, confirming it is based in Copenhagen, Denmark.",
+        "references": [
+          "ac284fa1-f9ee-4274-9da8-76224f2a0abb",
+          "152ade5f-ff35-495f-b4b2-e96d5550c93e"
+        ]
+      },
+      {
+        "content": "Agreena employs approximately 200 people, as indicated by the employee count in the company profile.",
+        "references": [
+          "152ade5f-ff35-495f-b4b2-e96d5550c93e"
+        ]
+      },
+      {
+        "content": "The total amount of capital raised by Agreena is about $84.2\u202fmillion across five funding rounds.",
+        "references": [
+          "a9980798-917b-40ad-9086-029cefd5b246",
+          "1c5c3e1b-87dd-4497-b47a-3ab99626a9ce"
+        ]
+      },
+      {
+        "content": "The most recent financing event is a Series\u202fB round of \u20ac46\u202fmillion (approximately $53.4\u202fmillion) closed on 30\u202fMarch\u202f2023, led by HV Capital and involving several other investors.",
+        "references": [
+          "a9980798-917b-40ad-9086-029cefd5b246",
+          "d1583e6a-cc76-40e9-bf87-6b759bd39d5c",
+          "39a3d7f7-5913-4932-8a34-9e02bb7f9eea"
+        ]
+      }
+    ],
+    "context": [
+      {
+        "id": "ac284fa1-f9ee-4274-9da8-76224f2a0abb",
+        "content": "Entity: Agreena (type: Company, ID: 8bfb91d6-cbf1-45c7-a05a-6f4b5072f744). Properties: description = A Copenhagen\u2011based carbon\u2011farming platform operating at the intersection of software, fintech, and food\u2011and\u2011beverage services.; headquarters_address = Langebrogade 3F, 3rd Floor, 1411 Copenhagen K, Denmark; website = agreena.com. Outgoing relationship types HAS_HEADQUARTERS_IN: Denmark. Outgoing relationship types PARTICIPATES_IN_CORPORATE_EVENT: FINANCING_RAISED_OR_FACILITY_ENTERED. Incoming relationship types FOUNDED: Simon Haldrup, Julie Koch Fahler, Ida Boesen. Incoming relationship types INVESTED_IN: HV CAPITAL AS, Danish Green Investment Fund, GIANT VENTURES GLOBAL LLP.",
+        "origins": [
+          {
+            "source": {
+              "name": "Julie & Ida: Women-Led AgriTech Supporting the Transition to Regenerative Agriculture Practices at Agreena - EMEA Entrepreneur",
+              "url": "https://emeaentrepreneur.com/"
+            },
+            "document": {
+              "name": "Julie & Ida: Women-Led AgriTech Supporting the Transition to Regenerative Agriculture Practices at Agreena - EMEA Entrepreneur",
+              "url": "https://emeaentrepreneur.com/julie-ida-women-led-agritech-supporting-the-transition-to-regenerative-agriculture-practices-at-agreena"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "www.futurefarming.com",
+              "url": "https://www.futurefarming.com/"
+            },
+            "document": {
+              "name": "www.futurefarming.com",
+              "url": "https://www.futurefarming.com/smart-farming/women-scaling-impact-for-the-climate-with-agritech-platform"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "www.crunchbase.com",
+              "url": "https://www.crunchbase.com/"
+            },
+            "document": {
+              "name": "www.crunchbase.com",
+              "url": "https://www.crunchbase.com/person/ida-boesen-f89c"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Meet the founder: 'You cannot be green if you're in the red' when it comes to financing regen ag, says Agreena's Simon Haldrup",
+              "url": "https://agfundernews.com/"
+            },
+            "document": {
+              "name": "Meet the founder: 'You cannot be green if you're in the red' when it comes to financing regen ag, says Agreena's Simon Haldrup",
+              "url": "https://agfundernews.com/meet-the-founder-you-cannot-be-green-if-youre-in-the-red-when-it-comes-to-financing-regen-ag-says-agreenas-simon-haldrup"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "AGREENA SECURES \u20ac20M TO CULTIVATE INTERNATIONAL CARBON FARM",
+              "url": "https://agreena.com/"
+            },
+            "document": {
+              "name": "AGREENA SECURES \u20ac20M TO CULTIVATE INTERNATIONAL CARBON FARM",
+              "url": "https://agreena.com/news/news-release-agreena-secures-e20m-to-cultivate-carbon-farming-market"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Agreena",
+              "url": "https://startupintros.com/"
+            },
+            "document": {
+              "name": "Agreena",
+              "url": "https://startupintros.com/orgs/agreena"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Contact us",
+              "url": "https://agreena.com/"
+            },
+            "document": {
+              "name": "Contact us",
+              "url": "https://agreena.com/contact/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "dk.linkedin.com",
+              "url": "https://dk.linkedin.com/"
+            },
+            "document": {
+              "name": "dk.linkedin.com",
+              "url": "https://dk.linkedin.com/in/simonhaldrup"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/"
+            },
+            "document": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/profiles/advisor/227071-54"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "The Hub | Agreena",
+              "url": "https://thehub.io/"
+            },
+            "document": {
+              "name": "The Hub | Agreena",
+              "url": "https://thehub.io/startups/commoditrader"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "hv.getro.com",
+              "url": "https://hv.getro.com/"
+            },
+            "document": {
+              "name": "hv.getro.com",
+              "url": "https://hv.getro.com/"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Portfolio",
+              "url": "https://giant.vc/"
+            },
+            "document": {
+              "name": "Portfolio",
+              "url": "https://giant.vc/portfolio"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Denmark's Green Investment Fund - 2026 Company Profile - Tracxn",
+              "url": "https://tracxn.com/"
+            },
+            "document": {
+              "name": "Denmark's Green Investment Fund - 2026 Company Profile - Tracxn",
+              "url": "https://tracxn.com/d/companies/denmarksgreeninvestmentfund/__1-0CDyP9SltjRazqf7xluqYKf0WksZSJg4zHWLyEXHQ"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/"
+            },
+            "document": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/profiles/company/462777-49"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "About Agreena - our story, mission and people",
+              "url": "https://agreena.com/"
+            },
+            "document": {
+              "name": "About Agreena - our story, mission and people",
+              "url": "https://agreena.com/about"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Agreena Company Overview, Contact Details & Competitors | LeadIQ",
+              "url": "https://leadiq.com/"
+            },
+            "document": {
+              "name": "Agreena Company Overview, Contact Details & Competitors | LeadIQ",
+              "url": "https://leadiq.com/c/agreena/609b6f9a3b112d2d987ac50f"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Ida Boesen - Founder",
+              "url": "https://webinar.agreena.com/"
+            },
+            "document": {
+              "name": "Ida Boesen - Founder",
+              "url": "https://webinar.agreena.com/ida-boesen-founder"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          },
+          {
+            "source": {
+              "name": "Agreena, a regenerative farming carbon market, raises $4.7M seed from Giant Ventures | TechCrunch",
+              "url": "https://techcrunch.com/"
+            },
+            "document": {
+              "name": "Agreena, a regenerative farming carbon market, raises $4.7M seed from Giant Ventures | TechCrunch",
+              "url": "https://techcrunch.com/2021/10/14/agreena-a-regenerative-farming-carbon-market-raises-4-7m-seed-from-giant-vc"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "152ade5f-ff35-495f-b4b2-e96d5550c93e",
+        "content": "Agreena was founded in 2018.\n ### Where is Agreena headquartered?\n\n  Agreena is headquartered in Copenhagen, Denmark.\n ### What is the size of Agreena?\n\n  Agreena has 200 total employees.\n ### What industry is Agreena in?\n\n  Agreena\u2019s primary industry is Business/Productivity Software.\n ### Is Agreena a private or public company?\n\n  Agreena is a Private company.\n ### What is the current valuation of Agreena?\n\n  The current valuation of Agreena is .\n ### What is Agreena\u2019s current revenue? [...] # Agreena\n\n## Agreena Overview\n\n##  Year Founded  2018\n\nYear Founded\n\n##  Status  Private\n\n##  Employees  200\n\nEmployees\n\n##  Latest Deal Type  Series B\n\n##  Latest Deal Amount  $53.4M\n\n##  Investors  11\n\n### Agreena General Information\n\n#### Description [...] Exit Type\n\nEvaluates the likelihood of a successful exit for investors, and the most likely exit type.\n\nRequest a free trial\n\n## Agreena Comparisons\n\nDescription\n\nPrimary  \nIndustry\n\nHQ Location\n\nEmployees\n\nTotal Raised\n\nPost Valuation\n\nLast   \nFinancing   \nDetails\n\nAgreena\n\nDeveloper of a soil carbon platform designed to scale regenerative agriculture through finance and technology. The compa\n\nBusiness/Productivity Software\n\nCopenhagen, Denmark\n\n200\n\nAs of 2026\n\nlogo\n\n##\n\nBoston, MA",
+        "origins": [
+          {
+            "source": {
+              "name": "pitchbook.com",
+              "url": "https://pitchbook.com/profiles/company/462777-49"
+            },
+            "document": {
+              "name": "Agreena 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+              "url": "https://pitchbook.com/profiles/company/462777-49"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "a9980798-917b-40ad-9086-029cefd5b246",
+        "content": "Agreena has raised a total funding of $84.2M over 5 rounds. Its first funding round was on Apr 30, 2018. Its latest funding round was a Series B round on Mar 30, 2023 for  $\\\\\\\\\\. 6 investors participated in its latest round.  Agreena has 11 institutional investors and 2 angel investors.\n\nlock [...] | Rank | Company Details | Short Description | Total Funding | Investors | Tracxn Score |\n ---  ---  --- |\n| 1st | Logo for Carbon Clean  Carbon Clean 2009, London  (United Kingdom), Series C | Developer of modular carbon capture systems for heavy industrial applications | $243M | Chevron, Equinor  & 61 others | 68/100 | [...] | 10th | Logo for Summit Carbon  Summit Carbon 2021, Ames  (United States), Series A | Operator of a pipeline system for carbon dioxide capture and transport | $1.32B | The Rise Fund, Continental Resources  & 2 others | 60/100 |\n| 18th | Logo for Agreena  Agreena 2016, Copenhagen  (Denmark), Series B | Scaling regenerative agriculture through carbon credits and sustainable supply chain solutions | $84.2M | HV Capital, Kinnevik  & 11 others | 54/100 |",
+        "origins": [
+          {
+            "source": {
+              "name": "Technology & Data for Venture Capital, Corp Dev, Investment Banks",
+              "url": "https://tracxn.com/d/companies/agreena/__cMKFCe0LXENWUUi6cMxxiZGxq1qgruQYri-Egy73fXA"
+            },
+            "document": {
+              "name": "Agreena - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn",
+              "url": "https://tracxn.com/d/companies/agreena/__cMKFCe0LXENWUUi6cMxxiZGxq1qgruQYri-Egy73fXA"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "39a3d7f7-5913-4932-8a34-9e02bb7f9eea",
+        "content": "Julie Fahler founded Agreena, which has completed a total of 5 funding deals to date. Agreena's primary offering is AgreenaCarbon, which empowers farmers to transition to regenerative agricultural methods and earn carbon credits under Verra's Verified Carbon Standard. The platform utilizes scientific Measurement, Reporting, and Verification (MRV) technology to provide essential agricultural data, thereby engaging farmers and serving clients across various European countries, including the [...] Julie Fahler founded Agreena, which has completed a total of 5 funding deals to date. Agreena's primary offering is AgreenaCarbon, which empowers farmers to transition to regenerative agricultural methods and earn carbon credits under Verra's Verified Carbon Standard. The platform utilizes scientific Measurement, Reporting, and Verification (MRV) technology to provide essential agricultural data, thereby engaging farmers and serving clients across various European countries, including the [...] Based in Denmark, Agreena ApS specializes in carbon farming solutions, facilitating the transition to regenerative agricultural practices while enabling farmers to earn carbon credits through sustainable methods. Founded in 2018 in Copenhagen, Denmark, Agreena ApS focuses on promoting sustainable agricultural practices. The company has successfully raised EUR 46. 00 mn in Series B funding as of March 30, 2023, led by HV Capital, alongside other investors.",
+        "origins": [
+          {
+            "source": {
+              "name": "Preqin | Alternative Assets Data, Solutions and Insights",
+              "url": "https://www.preqin.com/data/profile/asset/agreena-aps/449491"
+            },
+            "document": {
+              "name": "Agreena ApS Asset Profile | Preqin | BlackRock",
+              "url": "https://www.preqin.com/data/profile/asset/agreena-aps/449491"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d1583e6a-cc76-40e9-bf87-6b759bd39d5c",
+        "content": "Agreena - Company Profile & Funding Data | Raising.fi\n\nTitle: Agreena - Company Profile & Funding Data | Raising.fi\n# Raising.fi. # Agreena. ## Organization Chart. Founders and leadership hierarchy for this company. ## All Funding Rounds. | Date | Deal Type | Amount | Lead Investor |. | 3/30/2023 | Series B | \u20ac46 Million | HV Capital |. ## Company Performance Metrics. Upgrade to Premium to view Capital Momentum Score and performance metrics.",
+        "origins": [
+          {
+            "source": {
+              "name": "Startup Intelligence Platform \u2013 Funding, Companies & Investors | Raising.fi",
+              "url": "https://raising.fi/company/agreena"
+            },
+            "document": {
+              "name": "Agreena - Company Profile & Funding Data | Raising.fi",
+              "url": "https://raising.fi/company/agreena"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1c5c3e1b-87dd-4497-b47a-3ab99626a9ce",
+        "content": "founded\\_year | HQ Location | Carbon capture and sequestration solutions are developed and delivered. | Soil Capital logo  Soil Capital | domain | founded\\_year | HQ Location | Farm management services are provided for regenerative agriculture scaling. Agreena was founded in 2016 and raised its 1st funding round 2 years after it was founded. Is Agreena a funded company? Agreena is a funded company, having raised a total of $84.23M across 5 funding rounds to date. Founded in 2016 and [...] Indian Legal Entity People Database Charges Regulatory Alerts Litigations Detailed Financials Credit Ratings Global Brands Funding Rounds Acquisitions Investors Database IPO & Listings News Company Report. # Agreena. ## About Agreena. Agreena is a company based in Copenhagen (Denmark) founded in 2016 by Julie Koch Fahler, Ida Boesen, and Simon Haldrup.. Agreena has raised $84.23 million across 5 funding rounds from investors including Kinnevik, Anthemis Group and Danmarks Eksport og [...] Founded in 2016 and headquartered in Copenhagen, Denmark, Agreena operates in the sustainability sector, focusing on carbon credits derived from regenerative farming practices. Who are Agreena's investors?",
+        "origins": [
+          {
+            "source": {
+              "name": "The Company Check | Empowering Businesses with Data Transparency",
+              "url": "https://www.thecompanycheck.com/company/b/agreena/pav3304c5naju27uh"
+            },
+            "document": {
+              "name": "Agreena \u2014 Company Profile | The Company Check",
+              "url": "https://www.thecompanycheck.com/company/b/agreena/pav3304c5naju27uh"
+            },
+            "breadcrumb": [
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "entities": [
+      {
+        "id": "8bfb91d6-cbf1-45c7-a05a-6f4b5072f744",
+        "name": "Agreena",
+        "entity_type": "Company",
+        "mentions": [
+          "Agreena"
+        ]
+      },
+      {
+        "id": "8edc54de-ea75-48a2-b0ad-93d334537715",
+        "name": "Verified Carbon Standard",
+        "entity_type": "Organization",
+        "mentions": [
+          "Verra's Verified Carbon Standard"
+        ]
+      },
+      {
+        "id": "f536efcb-dfa9-5cd4-a76f-9d99cf11b8cc",
+        "name": "Copenhagen Municipality",
+        "entity_type": "Municipality",
+        "mentions": [
+          "Copenhagen"
+        ]
+      },
+      {
+        "id": "a8c8aacd-5591-50e0-92eb-c2f352c9eb0f",
+        "name": "Denmark",
+        "entity_type": "DependentTerritory",
+        "mentions": [
+          "Denmark"
+        ]
+      },
+      {
+        "id": "a048e5a8-a9b2-4f3e-8649-d2dcd100a7c7",
+        "name": "Julie Koch Fahler",
+        "entity_type": "Person",
+        "mentions": [
+          "Julie Koch Fahler"
+        ]
+      },
+      {
+        "id": "d11c4fe3-9bbf-444c-bea8-c0e2c32f5186",
+        "name": "Ida Boesen",
+        "entity_type": "Person",
+        "mentions": [
+          "Ida Boesen"
+        ]
+      },
+      {
+        "id": "61e8095d-5fad-41f3-8b05-3dba00a6256a",
+        "name": "Simon Haldrup",
+        "entity_type": "Person",
+        "mentions": [
+          "Simon Haldrup"
+        ]
+      },
+      {
+        "id": "8774eb35-b3d0-4d71-8135-a4fe1187a3b6",
+        "name": "HV Capital",
+        "entity_type": "Organization",
+        "mentions": [
+          "HV Capital"
+        ]
+      },
+      {
+        "id": "dd476f5e-44ff-4d7c-8a15-ae22c945e7f0",
+        "name": "Kinnevik AB (publ)",
+        "entity_type": "Company",
+        "mentions": [
+          "Kinnevik"
+        ]
+      },
+      {
+        "id": "c79e15fa-e2ec-4846-8a73-a05ddb28f4cf",
+        "name": "Giant Ventures",
+        "entity_type": "Organization",
+        "mentions": [
+          "Giant Ventures"
+        ]
+      },
+      {
+        "id": "4985b453-12d1-4307-aa52-79ee031ba8e4",
+        "name": "Anthemis Group",
+        "entity_type": "Company",
+        "mentions": [
+          "Anthemis Group"
+        ]
+      },
+      {
+        "id": "ba45d561-a5d5-41b1-b967-07d3460ef0b3",
+        "name": "Danish Green Investment Fund",
+        "entity_type": "Company",
+        "mentions": [
+          "Danish Green Investment Fund"
+        ]
+      }
+    ]
+  }
+}

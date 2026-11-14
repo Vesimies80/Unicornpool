@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UnicornPool: angel investing from €50</title>
+<style>
+  :root{--bg:#0f1115;--panel:#171a21;--line:#262b35;--ink:#eef0f4;--mute:#8b93a3;--acc:#7cf5c4;--acc2:#b69cff;--warn:#ffcf6b}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+  .wrap{max-width:1120px;margin:0 auto;padding:28px 20px 80px}
+  header{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+  h1{font-size:30px;margin:0;letter-spacing:-.02em}
+  h1 span{color:var(--acc)}
+  .tag{color:var(--mute)}
+  .how{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:22px 0}
+  .how div{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+  .how b{display:block;color:var(--acc);font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+  .builder{display:flex;gap:10px;flex-wrap:wrap;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px}
+  input{background:#0b0d11;border:1px solid var(--line);color:var(--ink);border-radius:9px;padding:10px 12px;font:inherit;min-width:0}
+  .builder input{flex:1 1 200px}
+  button{background:var(--acc);color:#06120d;border:0;border-radius:9px;padding:10px 16px;font:inherit;font-weight:650;cursor:pointer}
+  button.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);font-weight:500}
+  button:disabled{opacity:.5;cursor:wait}
+  .status{color:var(--mute);margin:10px 2px;min-height:22px}
+  .bundle{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px;margin:22px 0}
+  .bundle.locked{border-color:var(--acc);box-shadow:0 0 0 1px var(--acc) inset}
+  .bhead{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;align-items:baseline}
+  .bhead h2{margin:0;font-size:21px}
+  .chip{font-size:12px;border:1px solid var(--line);border-radius:99px;padding:2px 10px;color:var(--mute)}
+  .chip.lock{color:#06120d;background:var(--acc);border-color:var(--acc);font-weight:700}
+  .nums{display:flex;gap:26px;margin:14px 0 8px;flex-wrap:wrap}
+  .nums div{color:var(--mute);font-size:13px}
+  .nums b{display:block;color:var(--ink);font-size:22px}
+  .bar{height:14px;background:#0b0d11;border-radius:99px;overflow:hidden;border:1px solid var(--line)}
+  .bar i{display:block;height:100%;background:linear-gradient(90deg,var(--acc2),var(--acc));transition:width .8s ease}
+  .contrib{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 4px}
+  .contrib input.n{flex:1 1 140px}.contrib input.a{width:120px}
+  .err{color:#ff8a8a;font-size:13px;min-height:18px}
+  .banner{margin:14px 0;padding:14px;border-radius:12px;background:rgba(124,245,196,.08);border:1px solid rgba(124,245,196,.35)}
+  .banner h3{margin:0 0 8px;color:var(--acc)}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  td,th{text-align:left;padding:6px 4px;border-bottom:1px solid var(--line)}
+  th{color:var(--mute);font-weight:500}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;margin-top:16px}
+  .s{background:#12151b;border:1px solid var(--line);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:8px}
+  .s h4{margin:0;font-size:16px;display:flex;justify-content:space-between;gap:8px}
+  .s h4 small{color:var(--acc);font-weight:600;white-space:nowrap}
+  .s p{margin:0;color:#c9cdd6;font-size:13.5px}
+  .kv{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--mute)}
+  .kv b{color:var(--ink);font-weight:600}
+  .rule{font-size:12px;color:var(--mute)}
+  .src{font-size:12px;border-top:1px dashed var(--line);padding-top:8px}
+  .src a{color:var(--acc2);text-decoration:none;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .src a:hover{text-decoration:underline}
+  details.log{margin-top:30px;color:var(--mute);font-size:13px}
+  details.log code{color:var(--ink)}
+  .empty{color:var(--mute);text-align:center;padding:40px;border:1px dashed var(--line);border-radius:14px;margin-top:22px}
+  .feed{font-size:12.5px;color:var(--mute);margin-top:6px}
+  @media(max-width:700px){.how{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Unicorn<span>Pool</span></h1>
+    <div class="tag">Back a whole basket of early-stage startups from €50. Built on sourced data from Cala.</div>
+  </header>
+
+  <div class="how">
+    <div><b>1 · Discover</b>Cala finds early-stage startups in a field and pulls their funding, size and sources.</div>
+    <div><b>2 · Bundle</b>Startups of similar size are pooled together. Each one's cap is scaled to its size.</div>
+    <div><b>3 · Lock</b>Small investors chip in. When the pool hits its goal, every commitment locks at once.</div>
+  </div>
+
+  <form class="builder" id="builder">
+    <input id="sector" value="climate tech" placeholder="Field, e.g. climate tech" required>
+    <input id="region" value="the Nordics" placeholder="Region, e.g. the Nordics" required>
+    <button id="buildBtn">Build pools with Cala</button>
+    <button type="button" class="ghost" id="resetBtn">Reset demo</button>
+  </form>
+  <div class="status" id="status"></div>
+
+  <div id="bundles"></div>
+
+  <details class="log" id="log"><summary>What we asked Cala</summary><div id="logBody"></div></details>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const eur = n => n == null ? "–" : "€" + (n >= 1e6 ? (n/1e6).toFixed(n >= 1e7 ? 0 : 1) + "M" : n >= 1e3 ? Math.round(n/1e3) + "k" : Math.round(n));
+const eurFull = n => "€" + Math.round(n).toLocaleString("en-US");
+let state = {bundles: [], log: []};
+
+async function api(path, body) {
+  const r = await fetch(path, body ? {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify(body)} : {});
+  const j = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(typeof j.detail === "string" ? j.detail : (j.detail?.msg || "Request failed"));
+  return j;
+}
+
+async function refresh() { state = await api("/api/bundles"); render(); }
+
+function render() {
+  const el = $("#bundles");
+  if (!state.bundles.length) {
+    el.innerHTML = `<div class="empty">No pools yet. Pick a field and region above, and Cala will find the startups.</div>`;
+  } else el.innerHTML = state.bundles.map(bundleHTML).join("");
+  $("#logBody").innerHTML = (state.log || []).map(l =>
+    `<div>· <b>${esc(l.endpoint)}</b> <code>${esc(l.input)}</code> → ${l.error ? "<span style='color:#ff8a8a'>" + esc(l.error) + "</span>" : esc(l.rows ?? l.companies ?? l.sources) + (l.rows != null ? " rows" : l.companies != null ? " companies" : " sources")}</div>`
+  ).join("") || "Nothing yet.";
+}
+
+function bundleHTML(b) {
+  const locked = b.status === "locked";
+  const recent = b.contributions.slice(-4).reverse().map(c => `${esc(c.name)} ${eur(c.amount)}`).join(" · ");
+  return `<section class="bundle ${locked ? "locked" : ""}" id="b-${b.id}">
+    <div class="bhead"><h2>${esc(b.name)}</h2>
+      <span class="chip ${locked ? "lock" : ""}">${locked ? "🔒 LOCKED" : "Open for commitments"}</span></div>
+    <div class="nums">
+      <div><b>${eurFull(b.raised)}</b>committed</div>
+      <div><b>${eurFull(b.goal)}</b>goal</div>
+      <div><b>${b.startups.length}</b>startups</div>
+      <div><b>${b.investors}</b>investors</div>
+      <div><b>${b.pct}%</b>funded</div>
+    </div>
+    <div class="bar"><i style="width:${b.pct}%"></i></div>
+    ${recent ? `<div class="feed">Latest: ${recent}</div>` : ""}
+    ${locked ? lockedHTML(b) : `
+    <div class="contrib">
+      <input class="n" placeholder="Your name" id="n-${b.id}">
+      <input class="a" type="number" min="50" step="50" value="250" id="a-${b.id}">
+      <button onclick="back('${b.id}')">Back this pool</button>
+      <button class="ghost" onclick="sim('${b.id}')">Simulate a crowd</button>
+      <button class="ghost" onclick="fill('${b.id}')">Commit the rest (${eur(b.goal - b.raised)})</button>
+    </div>
+    <div class="err" id="e-${b.id}"></div>`}
+    <div class="grid">${b.startups.map(s => startupHTML(s, b.goal)).join("")}</div>
+  </section>`;
+}
+
+function lockedHTML(b) {
+  return `<div class="banner"><h3>Pool locked: ${eurFull(b.goal)} from ${b.investors} investors, committed to ${b.startups.length} startups</h3>
+    <table><tr><th>Startup</th><th>Allocation</th><th>Share of every ticket</th></tr>
+    ${b.allocation.map(a => `<tr><td>${esc(a.name)}</td><td>${eurFull(a.amount)}</td><td>${a.share}%</td></tr>`).join("")}
+    </table></div>`;
+}
+
+function startupHTML(s, goal) {
+  const src = (s.sources || []).slice(0, 3).map(x =>
+    `<a href="${esc(x.url)}" target="_blank" rel="noopener" title="${esc(x.fact)}">↗ ${esc(x.publisher ? x.publisher + ": " : "")}${esc(x.name)}</a>`).join("");
+  return `<div class="s">
+    <h4>${esc(s.name)} <small>cap ${eur(s.cap)}</small></h4>
+    ${s.description ? `<p>${esc(s.description)}</p>` : ""}
+    <div class="kv">
+      <span>Raised <b>${eur(s.raised)}</b></span>
+      <span>Team <b>${s.employees ?? "–"}</b></span>
+      <span>Last round <b>${esc(s.last_round || "–")}${s.last_year ? " · " + esc(s.last_year) : ""}</b></span>
+      <span>Pool share <b>${(100 * s.cap / goal).toFixed(0)}%</b></span>
+    </div>
+    <div class="rule">Cap rule: ${esc(s.cap_rule)}</div>
+    <div class="src">${src || "<span class='rule'>No sources returned</span>"}<span class="rule">${s.facts || 0} sourced facts from Cala</span></div>
+  </div>`;
+}
+
+$("#builder").onsubmit = async e => {
+  e.preventDefault();
+  const btn = $("#buildBtn"); btn.disabled = true;
+  const steps = ["Asking Cala for early-stage startups…", "Pulling funding rounds and team size…", "Collecting sources for every company…", "Sizing caps and bundling…"];
+  let i = 0; $("#status").textContent = steps[0];
+  const t = setInterval(() => { i = Math.min(i + 1, steps.length - 1); $("#status").textContent = steps[i]; }, 6000);
+  try {
+    const r = await api("/api/build", {sector: $("#sector").value, region: $("#region").value});
+    $("#status").textContent = `Built ${r.bundles.length} pool(s) from ${r.bundles.reduce((a, b) => a + b.startups.length, 0)} startups.`;
+    await refresh();
+  } catch (err) { $("#status").textContent = "⚠ " + err.message; await refresh(); }
+  finally { clearInterval(t); btn.disabled = false; }
+};
+
+$("#resetBtn").onclick = async () => { if (confirm("Clear all pools?")) { await api("/api/reset", {}); $("#status").textContent = ""; refresh(); } };
+
+async function back(id) {
+  try {
+    await api(`/api/bundles/${id}/contribute`, {name: $("#n-" + id).value || "Anonymous", amount: +$("#a-" + id).value});
+    refresh();
+  } catch (err) { $("#e-" + id).textContent = err.message; }
+}
+async function sim(id) { await api(`/api/bundles/${id}/simulate`, {}); refresh(); }
+async function fill(id) {
+  const b = state.bundles.find(x => x.id === id);
+  await api(`/api/bundles/${id}/contribute`, {name: $("#n-" + id).value || "You", amount: b.goal - b.raised});
+  refresh();
+}
+
+refresh();
+// other people's contributions show up live (skip while someone is typing in a pool)
+setInterval(() => { if (!$("#bundles").contains(document.activeElement)) refresh(); }, 5000);
+</script>
+</body>
+</html>
